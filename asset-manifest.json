@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/the-ace-villas/static/css/main.b7ee2e25.css",
-    "main.js": "/the-ace-villas/static/js/main.e43d2272.js",
+    "main.js": "/the-ace-villas/static/js/main.3df4d815.js",
     "static/js/453.0db64537.chunk.js": "/the-ace-villas/static/js/453.0db64537.chunk.js",
     "static/js/38.b0989eae.chunk.js": "/the-ace-villas/static/js/38.b0989eae.chunk.js",
     "static/media/whyChooseUs.png": "/the-ace-villas/static/media/whyChooseUs.baa6c29bd748d454e93d.png",
@@ -232,12 +232,12 @@
     "static/media/191107392.jpg": "/the-ace-villas/static/media/191107392.9881d15c8f21ab2351d3.jpg",
     "index.html": "/the-ace-villas/index.html",
     "main.b7ee2e25.css.map": "/the-ace-villas/static/css/main.b7ee2e25.css.map",
-    "main.e43d2272.js.map": "/the-ace-villas/static/js/main.e43d2272.js.map",
+    "main.3df4d815.js.map": "/the-ace-villas/static/js/main.3df4d815.js.map",
     "453.0db64537.chunk.js.map": "/the-ace-villas/static/js/453.0db64537.chunk.js.map",
     "38.b0989eae.chunk.js.map": "/the-ace-villas/static/js/38.b0989eae.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b7ee2e25.css",
-    "static/js/main.e43d2272.js"
+    "static/js/main.3df4d815.js"
   ]
 }
