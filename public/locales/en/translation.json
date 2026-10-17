@@ -1,0 +1,975 @@
+{
+  "part": {
+    "main": "The Ace Villas",
+    "sub": "Your Luxury Escape in Thailand",
+    "desc": "Exclusive private villas in Pattaya with modern amenities and serene surroundings.",
+    "button_1": "Explore Villas",
+    "button_2": "Book Now"
+  },
+  "about": {
+    "heading": "About",
+    "desc": "Ace Villas offers a collection of premium, privately-owned villas in the heart of Pattaya, Thailand. Whether you seek a quiet retreat or an adventurous getaway, our villas provide the perfect blend of comfort and luxury.",
+    "button": "Learn More"
+  },
+  "exploreVilla": {
+    "heading": "Explore Our Villas",
+    "heading2": "Explore Our Condo",
+    "villa1": "The Ace Suk Sabai Villa",
+    "villa2": "The Ace Jomtien Villa",
+    "villa3": "The Ace Sea View Condo",
+    "explore1": "Explore The Ace Suk Sabai Villa",
+    "explore2": "Explore The Ace Jomtien Villa",
+    "explore3": "Explore The ACE Sea View Condo",
+    "villa1description": "A modern villa with a private pool, luxurious interiors, and close proximity to Pattaya’s popular attractions.",
+    "villa2description": "An elegant and spacious villa offering unmatched comfort and a tranquil escape.",
+    "villa3description": "An elegant and spacious Condo offering unmatched comfort and a tranquil escape."
+  },
+  "whychooseus": {
+    "heading": "Why Choose Ace Villas?",
+    "block1": {
+      "heading": "Private Pools",
+      "desc": "Relax in our exclusive pools surrounded by tropical gardens"
+    },
+    "block2": {
+      "heading": "Prime Location",
+      "desc": "Minutes away from Pattaya’s beautiful beaches and nightlife."
+    },
+    "block3": {
+      "heading": "Modern Comfort",
+      "desc": "Fully equipped kitchens, high-speed Wi-Fi, and elegant furnishings."
+    },
+    "block4": {
+      "heading": "Personalized Service",
+      "desc": "Your stay includes concierge services to meet all your needs."
+    }
+  },
+  "nearbyAttraction": {
+    "heading": "Explore Nearby Attractions",
+    "description1": "Ace Villas places you at the center of Pattaya's finest attractions, giving you quick access to unique experiences and local landmarks.",
+    "description2": "Perfectly situated for beach lovers, Ace Villas offers easy access to some of Pattaya’s most beautiful beaches. Spend your days lounging in the sun, swimming, or trying out thrilling water sports.",
+    "attractions": {
+      "name1": "Ripley's Believe It or Not",
+      "name2": "Pattaya Viewpoint",
+      "name3": "Jomtien Beach",
+      "name4": "Dongtan Beach"
+    }
+  },
+  "bookStay": {
+    "heading": "Book Your Stay",
+    "subheading": "Ready to Experience Ace Villas?",
+    "villa1": {
+      "name": "The Ace Jomtien Villa",
+      "desc": "This stunning villa features 6 spacious bedrooms and 6 modern bathrooms, offering ample space for large families or groups. Perfectly located close to the vibrant heart of Pattaya, The Ace Luxury Villa combines sophistication with convenience.",
+      "features": {
+        "bedrooms": "6 Bedrooms, 6 Bathrooms",
+        "privatePool": "Private Pool & Sun Terrace",
+        "wifi": "High-Speed WiFi",
+        "kitchen": "Fully Equipped Kitchen",
+        "parking": "Free Private Parking"
+      },
+      "description": "Ideal for large groups or families",
+      "price": {
+        "amount": 13500,
+        "currency": "THB",
+        "per": "Night"
+      },
+      "button": "Book Now"
+    },
+    "villa2": {
+      "name": "The Ace Suk Sabai Villa",
+      "desc": "Offering 4 bedrooms and 4 bathrooms, Gala Express is the ideal choice for smaller groups or families seeking an intimate yet luxurious stay. With modern interiors and a peaceful ambiance, it’s the perfect retreat from the city’s hustle.",
+      "features": {
+        "bedrooms": "4 Bedrooms, 4 Bathrooms",
+        "privatePool": "Private Outdoor Pool",
+        "streaming": "Streaming Services",
+        "bbq": "BBQ Facilities",
+        "parking": "Valet Parking Available"
+      },
+      "description": "Perfect for families & small groups",
+      "price": {
+        "amount": 12000,
+        "currency": "THB",
+        "per": "Night"
+      },
+      "button": "Book Now"
+    }
+  },
+  "contact": {
+    "heading": "Contact Us",
+    "image": {
+      "src": "contact",
+      "alt": "Contact Image"
+    },
+    "form": {
+      "component": "Form"
+    }
+  },
+  "footer": {
+    "pages": "Pages",
+    "home": "Home",
+    "about": "About",
+    "villas": "Villas",
+    "gallery": "Gallery",
+    "location": "Location",
+    "reviews": "Reviews",
+    "contact": "Contact",
+    "contactInfo": "Contact Info",
+    "sukSabaiAddress": {
+      "title": "The Ace Suk Sabai Villa",
+      "details": "388/146 Moo.10 Suksabai Villa, Thepprasit Rd., Soi 8 Nongprue, Banglamung, 20150 Pattaya South, Thailand"
+    },
+    "jomtienAddress": {
+      "title": "The Ace Jomtien Villa",
+      "details": "418/69, 5 Phra Tamnak, Pattaya City, Bang Lamung District, Chon Buri 20150, Thailand"
+    },
+    "subscribeTitle": "Stay Updated!",
+    "subscribeDesc": "Subscribe to our newsletter for the latest updates and offers.",
+    "emailPlaceholder": "Enter your Email",
+    "successMessage": "Email Received Successfully! Thank You.",
+    "copyright": "Copyright © 2024 theacevillas",
+    "terms": "Terms and Conditions",
+    "privacy": "Privacy Policy",
+    "disclaimer": "Disclaimer"
+  },
+  "form": {
+    "heading": "Lets Connect",
+    "fields": {
+      "name": {
+        "label": "Full Name",
+        "placeholder": "Enter Your Name"
+      },
+      "email": {
+        "label": "Email",
+        "placeholder": "Enter Your Email"
+      },
+      "phone": {
+        "label": "Phone Number",
+        "placeholder": "Enter Your Phone Number"
+      },
+      "message": {
+        "label": "Message",
+        "placeholder": "Enter Your Message"
+      }
+    },
+    "button": {
+      "text": "Send"
+    }
+  },
+  "form2": {
+    "title": "Book Now",
+    "fields": {
+      "name": {
+        "label": "Full Name",
+        "placeholder": "Enter Your Name"
+      },
+      "email": {
+        "label": "Email",
+        "placeholder": "Enter Your Email"
+      },
+      "phone": {
+        "label": "Phone Number",
+        "placeholder": "Enter Your Phone Number"
+      },
+      "villa": {
+        "label": "Select Villa",
+        "placeholder": "Select Villa",
+        "options": [
+          "The Ace Suk Sabai Villa",
+          "The Ace Jomtien Villa"
+        ]
+      },
+      "startDate": {
+        "label": "Checkin Date"
+      },
+      "endDate": {
+        "label": "Checkout Date"
+      },
+      "message": {
+        "label": "Message",
+        "placeholder": "Enter Your Message"
+      }
+    },
+    "button": {
+      "text": "Send"
+    }
+  },
+  "aboutpage": {
+    "title": "About",
+    "heading": "The Ace Luxury Villas",
+    "description": [
+      "Welcome to The Ace Villas, your gateway to unparalleled luxury and comfort in the heart of Pattaya, Thailand. We are dedicated to offering world-class hospitality through our premium villa accommodations, perfect for families, friends, and travelers seeking a serene yet vibrant retreat.",
+      "At The Ace Villas, we believe in creating an extraordinary experience for our guests by combining the charm of modern amenities with the warmth of personalized service. Our two exquisite villas, The Ace Jomtien Villa and The Ace Suk Sabai Villa, boast luxurious interiors, private pools, and proximity to some of Pattaya's most iconic attractions."
+    ]
+  },
+  "contactPage": {
+    "heading": "Contact Us",
+    "desc": "We’re here to make your stay at The Ace Villas unforgettable. Whether you have questions, need assistance with bookings, or want to learn more about our villas, feel free to reach out to us."
+  },
+  "jomtiean": {
+    "home": {
+      "title": "The Ace Jomtien Villa",
+      "subtitle": "Your Premium Getaway near Jomtien beach in Pattaya",
+      "description": "Escape to a luxurious retreat at The Ace Jomtien Villa, where contemporary elegance meets exceptional comfort. Designed to accommodate up to 12 guests, this villa offers a perfect balance of relaxation and sophistication for an unforgettable vacation.",
+      "features": "6 Bedrooms | 6 Bathrooms",
+      "buttonText": "Book Now"
+    },
+    "about": {
+      "title": "About",
+      "description": "Discover the charm of The Ace Jomtien Villa, located in the heart of Jomtien. With six spacious bedrooms and a private pool, this villa is an ideal haven for families and groups seeking a tranquil yet luxurious stay. Each room is thoughtfully designed to offer maximum comfort, complemented by modern amenities and a serene ambiance.",
+      "addressHeading": "Address",
+      "address": "418/69, 5 Phra Tamnak, Pattaya City, Bang Lamung District, Chon Buri 20150, Thailand"
+    },
+    "amenities": {
+      "sectionTitle": "Amenities and Facilities",
+      "categories": [
+        {
+          "title": "Outdoor Amenities",
+          "items": [
+            "Private swimming pool with loungers",
+            "Sun terrace and BBQ area for delightful evenings",
+            "Free private parking on-site"
+          ]
+        },
+        {
+          "title": "Indoor Amenities",
+          "items": [
+            "Spacious living area with plush sofas and a flat-screen TV",
+            "Fully equipped kitchen with a microwave, refrigerator, stovetop, and more",
+            "Dining area perfect for group meals",
+            "High-speed WiFi and streaming service like Netflix for entertainment"
+          ]
+        },
+        {
+          "title": "Bedroom and Bath Essentials",
+          "items": [
+            "Fresh linens, towels, and toiletries provided",
+            "Private bathrooms with hot water, free toiletries, and a hairdryer",
+            "Free private parking on-site"
+          ]
+        }
+      ]
+    },
+    "mostPopularFacilities": "Most popular facilities",
+    "facilities": {
+      "entirePlace": "The Entire place is yours",
+      "size": "240 m² size",
+      "swimmingPool": "Outdoor swimming pool",
+      "parking": "Free on-site parking",
+      "bathroom": "Private bathroom",
+      "balcony": "Balcony",
+      "airportShuttle": "Airport shuttle",
+      "airConditioning": "Air conditioning",
+      "bbqFacilities": "BBQ facilities",
+      "familyRooms": "Family rooms",
+      "wifi": "Free WiFi",
+      "nonSmokingRooms": "Non-smoking rooms",
+      "terrace": "Terrace"
+    },
+    "locationHighlights": {
+      "title": "Location Highlights",
+      "description": "Explore Jomtien effortlessly. The Ace Jomtien Villa is perfectly situated, placing top attractions within easy reach:",
+      "sections": [
+        {
+          "category": "Top Attractions",
+          "items": [
+            {
+              "name": "Ripley's Believe It or Not",
+              "distance": "3.7 km"
+            },
+            {
+              "name": "Pattaya Viewpoint",
+              "distance": "1.8 km"
+            },
+            {
+              "name": "Underwater World Pattaya",
+              "distance": "5.9 km"
+            }
+          ]
+        },
+        {
+          "category": "Nearby Beaches",
+          "items": [
+            {
+              "name": "Pattaya Beach",
+              "distance": "3.2 km"
+            },
+            {
+              "name": "Dongtan Beach",
+              "distance": "1.2 km"
+            },
+            {
+              "name": "Jomtien Beach",
+              "distance": "650 m"
+            }
+          ]
+        },
+        {
+          "category": "Dining and Shopping",
+          "subCategory": "Enjoy a wide range of dining options and convenient shopping nearby:",
+          "items": [
+            {
+              "name": "La Bocca Italian Restaurant and Pizzeria",
+              "distance": "2.3 km"
+            },
+            {
+              "name": "Natan's",
+              "distance": "2.2 km"
+            },
+            {
+              "name": "Akvavit Grill & Bar",
+              "distance": "2.1 km"
+            },
+            {
+              "name": "Sandbar By The Sea",
+              "distance": "1.7 km"
+            }
+          ]
+        },
+        {
+          "category": "Supermarkets",
+          "items": [
+            {
+              "name": "Big C",
+              "distance": "5 km"
+            },
+            {
+              "name": "Friendship Supermarket",
+              "distance": "3.4 km"
+            }
+          ]
+        },
+        {
+          "category": "Public Transport",
+          "items": [
+            {
+              "name": "Pattaya South",
+              "distance": "3.1 km"
+            },
+            {
+              "name": "Pattaya Railway Station",
+              "distance": "7.7 km"
+            },
+            {
+              "name": "Pattaya Bus Terminal",
+              "distance": "7.6 km"
+            },
+            {
+              "name": "U-Tapao Rayong-Pattaya International Airport",
+              "distance": "35.4 km"
+            }
+          ]
+        }
+      ]
+    },
+    "faq": {
+      "title": "FAQ About The Ace Jomtien Villa",
+      "questions": [
+        {
+          "question": "How many bedrooms does The Ace Jomtien Villa have?",
+          "answer": "The Ace Jomtien Villa features 6 bedrooms. For a detailed breakdown of the accommodation, please check this page."
+        },
+        {
+          "question": "Is The Ace Jomtien Villa popular with families?",
+          "answer": "Yes, The Ace Jomtien Villa is a popular choice for family stays."
+        },
+        {
+          "question": "Does The Ace Jomtien Villa have a pool?",
+          "answer": "Yes, the villa has a pool. You can find more details about the pool and other facilities on this page."
+        },
+        {
+          "question": "What activities are available at The Ace Jomtien Villa?",
+          "answer": "The Ace Jomtien Villa offers activities such as a games room and swimming pool (charges may apply)."
+        },
+        {
+          "question": "How much does it cost to stay at The Ace Jomtien Villa?",
+          "answer": "The prices vary depending on your stay dates and the villa's policies. Please check the pricing by entering your dates."
+        },
+        {
+          "question": "How many guests can sleep at The Ace Jomtien Villa?",
+          "answer": "The villa can accommodate up to 12 guests. For detailed information, check the accommodation breakdown on this page."
+        },
+        {
+          "question": "Is there a private pool at The Ace Jomtien Villa?",
+          "answer": "Yes, the villa includes a private pool. More details are available on this page."
+        },
+        {
+          "question": "What are the check-in and check-out times at The Ace Jomtien Villa?",
+          "answer": "Check-in is from 14:00, and check-out is until 11:00."
+        },
+        {
+          "question": "Does The Ace Jomtien Villa have a terrace?",
+          "answer": "Yes, the villa has options that include a terrace. Find out more about the facilities on this page."
+        },
+        {
+          "question": "Does The Ace Jomtien Villa have a balcony?",
+          "answer": "Yes, some options at the villa include a balcony. More details are available on this page."
+        }
+      ]
+    },
+    "booking": {
+      "title": "Booking Information",
+      "description": "Book your stay at The Ace Jomtien Villa today for a memorable experience in Pattaya.",
+      "rate": "Nightly Rate: 13500 THB/night",
+      "button": "Book Now"
+    }
+  },
+  "SukSabai": {
+    "home": {
+      "title": "The Ace Suk Sabai Villa",
+      "subtitle": "Your Private Oasis in Pattaya",
+      "description": "Experience luxury and comfort at The Ace Suk Sabai Villa, where modern amenities and stunning surroundings promise a memorable stay.",
+      "features": "4 Bedroom | 4 Bathroom",
+      "buttonText": "Book Now"
+    },
+    "about": {
+      "title": "About",
+      "description": "Welcome to The Ace Suk Sabai Villa Located in the heart of Pattaya, The Ace Suk Sabai Villa is a luxurious 4-bedroom retreat designed for relaxation and sophistication. With a prime location near the city’s most popular beaches and attractions, The Ace Suk Sabai Villa offers the perfect escape for families, groups, or couples looking to indulge in a private and scenic vacation.",
+      "addressHeading": "Address",
+      "address": "388/146 Moo.10 Suksabai Villa, Thepprasit Rd., Soi 8 Nongprue, Banglamung, 20150 Pattaya South, Thailand "
+    },
+    "amenities": {
+      "sectionTitle": "Amenities and Facilities",
+      "categories": [
+        {
+          "title": "Outdoor Amenities",
+          "items": [
+            "Private swimming pool with loungers",
+            "Sun terrace and BBQ area for delightful evenings",
+            "Free private parking on-site"
+          ]
+        },
+        {
+          "title": "Indoor Amenities",
+          "items": [
+            "Spacious living area with plush sofas and a flat-screen TV",
+            "Fully equipped kitchen with a microwave, refrigerator, stovetop, and more",
+            "Dining area perfect for group meals",
+            "High-speed WiFi and streaming service like Netflix for entertainment"
+          ]
+        },
+        {
+          "title": "Bedroom and Bath Essentials",
+          "items": [
+            "Fresh linens, towels, and toiletries provided",
+            "Private bathrooms with hot water, free toiletries, and a hairdryer",
+            "Free private parking on-site"
+          ]
+        }
+      ]
+    },
+    "mostPopularFacilities": "Most popular facilities",
+    "facilities": {
+      "entirePlace": "The Entire place is yours",
+      "size": "240 m² size",
+      "swimmingPool": "Outdoor swimming pool",
+      "parking": "Free on-site parking",
+      "bathroom": "Private bathroom",
+      "airConditioning": "Air conditioning",
+      "balcony": "Balcony",
+      "airportShuttle": "Airport shuttle",
+      "bbqFacilities": "BBQ facilities",
+      "familyRooms": "Family rooms",
+      "wifi": "Free WiFi",
+      "nonSmokingRooms": "Non-smoking rooms",
+      "terrace": "Terrace"
+    },
+    "locationHighlights": {
+      "title": "Location Highlights",
+      "description": "Discover Pattaya with ease. The Ace Suk Sabai Villa is ideally located, with several notable attractions just a short drive away:",
+      "sections": [
+        {
+          "category": "Top Attractions",
+          "items": [
+            {
+              "name": "Ripley's Believe It or Not",
+              "distance": "2.8 km"
+            },
+            {
+              "name": "Pattaya Viewpoint",
+              "distance": "3.3 km"
+            },
+            {
+              "name": "Underwater World Pattaya",
+              "distance": "3 km"
+            }
+          ]
+        },
+        {
+          "category": "Nearby Beaches",
+          "items": [
+            {
+              "name": "Pattaya Beach",
+              "distance": "2.2 km"
+            },
+            {
+              "name": "Dongtan Beach",
+              "distance": "3 km"
+            },
+            {
+              "name": "Jomtien Beach",
+              "distance": "3.2 km"
+            }
+          ]
+        },
+        {
+          "category": "Dining and Shopping",
+          "subCategory": "Enjoy a wide range of dining options and convenient shopping nearby:",
+          "items": [
+            {
+              "name": "Camel Toe",
+              "distance": "200 m"
+            },
+            {
+              "name": "The Lion Pub",
+              "distance": "250 m"
+            },
+            {
+              "name": "Thai German house",
+              "distance": "350 m"
+            }
+          ]
+        },
+        {
+          "category": "Supermarkets",
+          "items": [
+            {
+              "name": "Big C",
+              "distance": "2.1 km"
+            },
+            {
+              "name": "Friendship Supermarket",
+              "distance": "2.1 km"
+            }
+          ]
+        },
+        {
+          "category": "Public Transport",
+          "items": [
+            {
+              "name": "Pattaya South",
+              "distance": "2.6 km"
+            },
+            {
+              "name": "Pattaya Railway Station",
+              "distance": "5 km"
+            },
+            {
+              "name": "Pattaya Bus Terminal",
+              "distance": "6 km"
+            },
+            {
+              "name": "U-Tapao Rayong-Pattaya International Airport",
+              "distance": "46 km"
+            }
+          ]
+        }
+      ]
+    },
+    "faq": {
+      "title": "FAQ About The Ace Suk Sabai Villa",
+      "questions": [
+        {
+          "question": "How many bedrooms does The Ace Suk Sabai Villa have?",
+          "answer": "The Ace Suk Sabai Villa features 4 bedrooms. For a detailed breakdown of the accommodation, please check this page."
+        },
+        {
+          "question": "Is The Ace Suk Sabai Villa popular with families?",
+          "answer": "Yes, The Ace Suk Sabai Villa is a popular choice for family stays."
+        },
+        {
+          "question": "Does The Ace Suk Sabai Villa have a pool?",
+          "answer": "Yes, the villa has a pool. You can find more details about the pool and other facilities on this page."
+        },
+        {
+          "question": "What activities are available at The Ace Suk Sabai Villa?",
+          "answer": "The Ace Suk Sabai Villa offers activities such as a games room and swimming pool (charges may apply)."
+        },
+        {
+          "question": "How much does it cost to stay at The Ace Suk Sabai Villa?",
+          "answer": "The prices vary depending on your stay dates and the villa's policies. Please check the pricing by entering your dates."
+        },
+        {
+          "question": "How many guests can sleep at The Ace Suk Sabai Villa?",
+          "answer": "The villa can accommodate up to 10 guests. For detailed information, check the accommodation breakdown on this page."
+        },
+        {
+          "question": "Is there a private pool at The Ace Suk Sabai Villa?",
+          "answer": "Yes, the villa includes a private pool. More details are available on this page."
+        },
+        {
+          "question": "What are the check-in and check-out times at The Ace Suk Sabai Villa?",
+          "answer": "Check-in is from 14:00, and check-out is until 11:00."
+        },
+        {
+          "question": "Does The Ace Suk Sabai Villa have a terrace?",
+          "answer": "Yes, the villa has options that include a terrace. Find out more about the facilities on this page."
+        },
+        {
+          "question": "Does The Ace Suk Sabai Villa have a balcony?",
+          "answer": "Yes, some options at the villa include a balcony. More details are available on this page."
+        },
+        {
+          "question": "How far is The Ace Suk Sabai Villa from the centre of Pattaya South?",
+          "answer": "The Ace Suk Sabai Villa is located 800 meters from the center of Pattaya South. Travel distances may vary."
+        }
+      ]
+    },
+    "booking": {
+      "title": "Booking Information",
+      "description": "Book your stay at The Ace Suk Sabai Villa today for a memorable experience in Pattaya.",
+      "rate": "Nightly Rate: 12000  THB/night",
+      "button": "Book Now"
+    }
+  },
+  "aceCondo": {
+    "home": {
+      "title": "The ACE Sea View Condo",
+      "subtitle": "Elevate Your Stay at The Ace Condo",
+      "description": "Located in Pattaya South, The Ace Condo provides accommodation with private pool, free Wi-Fi and free private parking for guests who drive. The air-conditioned accommodation is 1.5 km from Cosy Beach. The accommodation features a lift and a shared kitchen for guests.",
+      "features": "1 Bedroom | 1 Bathroom",
+      "buttonText": "Book Now"
+    },
+    "about": {
+      "title": "About",
+      "description": "The spacious apartment features a balcony, 1 bedroom, a living room and a well-equipped kitchen. A flat-screen TV is featured. The property offers garden views. Both a bicycle rental service and a car rental service are available at the apartment. Paradise Beach is 1.8 km from The Ace Condo, while Bangpra International Golf Club is 42 km away. U-Tapao Rayong-Pattaya International Airport is 46 km from the property.",
+      "addressHeading": "Address",
+      "address": "163 Phra Tamnak, 20260 Pattaya South, Thailand"
+    },
+    "amenities": {
+      "sectionTitle": "Amenities and Facilities",
+      "categories": [
+        {
+          "title": "Outdoor Amenities",
+          "items": [
+            "Enjoy cozy moments in our picnic area with stylish outdoor furniture.",
+            "Unwind in your private pool or savor the view from your balcony.",
+            "Free private parking on-site"
+          ]
+        },
+        {
+          "title": "Indoor Amenities",
+          "items": [
+            "Spacious living area with plush sofas and a flat-screen TV",
+            "Fully equipped kitchen with a microwave, refrigerator, stovetop, and more",
+            "High-speed WiFi and streaming service like Netflix for entertainment"
+          ]
+        },
+        {
+          "title": "Bedroom and Bath Essentials",
+          "items": [
+            "Fresh linens, towels, and toiletries provided",
+            "Private bathrooms with hot water, free toiletries, and a hairdryer",
+            "Free private parking on-site"
+          ]
+        }
+      ]
+    },
+    "mostPopularFacilities": "Most popular facilities",
+    "facilities": {
+      "entirePlace": "The Entire place is yours",
+      "size": "60 m² size",
+      "kitchen": "Kitchen",
+      "View": "View",
+      "Pets": "Pets allowed",
+      "Washingmachine": "Washing machine",
+      "swimmingPool": "Outdoor swimming pool",
+      "wifi": "Free WiFi",
+      "balcony": "Balcony",
+      "parking": "Free on-site parking",
+      "bathroom": "Private bathroom",
+      "airConditioning": "Air conditioning"
+    },
+    "locationHighlights": {
+      "title": "Location Highlights",
+      "description": "Discover Pattaya with ease. The Ace Condo is ideally located, with several notable attractions just a short drive away:",
+      "sections": [
+        {
+          "category": "Top Attractions",
+          "items": [
+            {
+              "name": "Ripley's Believe It or Not",
+              "distance": "1.6 km"
+            },
+            {
+              "name": "Pattaya Viewpoint",
+              "distance": "950 m"
+            },
+            {
+              "name": "Property Of Namtarn",
+              "distance": "1 km"
+            },
+            {
+              "name": "Flight Of The Gibbon",
+              "distance": "2.3 km"
+            },
+            {
+              "name": "Pattaya Park Tower",
+              "distance": "2.3 km"
+            }
+          ]
+        },
+        {
+          "category": "Nearby Beaches",
+          "items": [
+            {
+              "name": "Cosy Beach",
+              "distance": "1.5 km"
+            },
+            {
+              "name": "Pattaya Beach",
+              "distance": "1.6 km"
+            },
+            {
+              "name": "Paradise Beach",
+              "distance": "1.8 km"
+            },
+            {
+              "name": "Pratumnak Beach",
+              "distance": "2.3 km"
+            },
+            {
+              "name": "Dongtan Beach",
+              "distance": "2.5 km"
+            }
+          ]
+        },
+        {
+          "category": "Restaurants & cafes",
+          "subCategory": "Enjoy a wide range of dining options and convenient shopping nearby:",
+          "items": [
+            {
+              "name": "Cafe/barSL Sports Lounge",
+              "distance": "250 m"
+            },
+            {
+              "name": "Cafe/barBelgian Beer Bar Pattaya",
+              "distance": "900 m"
+            },
+            {
+              "name": "Cafe/barMokador",
+              "distance": "1.1 km"
+            }
+          ]
+        },
+        {
+          "category": "Top attractions",
+          "items": [
+            {
+              "name": "Underwater World Pattaya",
+              "distance": "5 km"
+            },
+            {
+              "name": "Mini Siam",
+              "distance": "6 km"
+            },
+            {
+              "name": "Bottle Art Musuem",
+              "distance": "6 km"
+            },
+            {
+              "name": "Na Baan Pier",
+              "distance": "10 km"
+            }
+          ]
+        },
+        {
+          "category": "Public Transport",
+          "items": [
+            {
+              "name": "Pattaya South",
+              "distance": "4.9 km"
+            },
+            {
+              "name": "Pattaya Railway Station",
+              "distance": "5 km"
+            },
+            {
+              "name": "Pattaya Bus Terminal",
+              "distance": "5 km"
+            },
+            {
+              "name": "U-Tapao Rayong-Pattaya International Airport",
+              "distance": "45 km"
+            }
+          ]
+        }
+      ]
+    },
+    "faq": {
+      "title": "FAQ About The Ace Condo",
+      "questions": [
+        {
+          "question": "How far is The Ace Condo from the centre of Pattaya South?",
+          "answer": "The Ace Condo is 800 m from the centre of Pattaya South. All distances are measured in straight lines. Actual travel distances may vary."
+        },
+        {
+          "question": "What is there to do at The Ace Condo?",
+          "answer": "The Ace Condo offers Swimming Pool, Entertainment staff, Bicycle rental (charges may apply):"
+        },
+        {
+          "question": "Is there a private pool available to guests staying at The Ace Condo?",
+          "answer": "Yes, there is a private pool. You can find out more about this and the other facilities at The Ace Condo on this page."
+        },
+        {
+          "question": "How close to the beach is The Ace Condo?",
+          "answer": "The nearest beach is just 1.1 km from The Ace Condo. All distances are measured in straight lines. Actual travel distances may vary."
+        },
+        {
+          "question": "What are the check-in and check-out times at The Ace Condo?",
+          "answer": "Check-in at The Ace Condo is from 15:00, and check-out is until 00:00."
+        },
+        {
+          "question": "How many bedrooms does The Ace Condo have?",
+          "answer": "The Ace Condo has 1 bedrooms. For more detailed information, please check the accommodation option(s) breakdown on this page."
+        },
+        {
+          "question": "Is The Ace Condo popular with families?",
+          "answer": "Yes, The Ace Condo is popular with guests booking family stays."
+        },
+        {
+          "question": "How many guests can sleep at The Ace Condo?",
+          "answer": "The Ace Condo can accommodate 3 guests"
+        },
+        {
+          "question": "How much does it cost to stay at The Ace Condo?",
+          "answer": "The prices at The Ace Condo may vary depending on your stay (e.g. dates you select, hotel's policy etc.). See the prices by entering your dates."
+        },
+        {
+          "question": "Does The Ace Condo have a pool?",
+          "answer": "Yes, this hotel has a pool. Find out the details about the pool and other facilities on this page."
+        },
+        {
+          "question": "Does The Ace Condo have a balcony?",
+          "answer": "Yes, there are options at this property that have a balcony. You can find out more about this and the other facilities at The Ace Condo on this page."
+        }
+      ]
+    },
+    "booking": {
+      "title": "Booking Information",
+      "description": "Book your stay at The Ace Condo today for a memorable experience in Pattaya.",
+      "rate": "Nightly Rate: 2100 THB/night",
+      "button": "Book Now"
+    }
+  },
+  "disclaimer": {
+    "title": "Disclaimer",
+    "welcome": "Welcome to The Ace Villas",
+    "generalInfo": "General Information Only",
+    "sections": {
+      "noWarranties": {
+        "title": "No Warranties",
+        "content": "The information on TheAceVillas.com is provided \"as is.\" We do not warrant the accuracy, reliability, or completeness of any information provided."
+      },
+      "limitedLiability": {
+        "title": "Limited Liability",
+        "content": "TheAceVillas.com and its affiliates are not liable for any direct, indirect, or consequential damages arising from the use or inability to use this website or its services."
+      },
+      "bookingDisclaimer": {
+        "title": "Booking Disclaimer",
+        "content": "Room descriptions, amenities, and availability may vary. TheAceVillas.com is not liable for discrepancies between listed information and actual property features."
+      },
+      "thirdPartyLinks": {
+        "title": "Third-Party Links",
+        "content": "Our website may contain links to third-party websites. We do not endorse and are not responsible for the content of these sites."
+      },
+      "contactUs": {
+        "title": "Contact Us",
+        "content": "For any questions regarding our Disclaimer, please contact us at"
+      }
+    },
+    "email": "support@theacevillas.com"
+  },
+  "privacy": {
+    "title": "Privacy Policy",
+    "subtitle": "Your Privacy Matters to Us",
+    "description": "This Privacy Policy explains how we handle your personal information.",
+    "sections": {
+      "informationWeCollect": {
+        "title": "Information We Collect",
+        "points": [
+          "We collect information you provide, such as your name, contact information, and payment details.",
+          "We may also collect information automatically, including IP addresses and cookies to enhance your user experience."
+        ]
+      },
+      "howWeUse": {
+        "title": "How We Use Your Information",
+        "points": [
+          "To process bookings and manage reservations.",
+          "To send updates, offers, and respond to your inquiries.",
+          "For analytical purposes to improve our services and user experience."
+        ]
+      },
+      "thirdPartySharing": {
+        "title": "Third-Party Sharing",
+        "points": [
+          "We may share your information with third parties only for payment processing, fraud prevention, or compliance with legal obligations.",
+          "We do not sell or rent personal information to third parties."
+        ]
+      },
+      "cookies": {
+        "title": "Cookies",
+        "points": [
+          "Our website uses cookies to improve user experience. By using our site, you agree to the use of cookies in accordance with this Privacy Policy."
+        ]
+      },
+      "yourRights": {
+        "title": "Your Rights",
+        "points": [
+          "You have the right to access, modify, or request the deletion of your personal information. Contact us at support@theacevillas.com for assistance."
+        ]
+      }
+    }
+  },
+  "terms": {
+    "title": "Terms and Conditions",
+    "subtitle": "Welcome to The Ace Villas",
+    "description": "By using or accessing our website, you agree to comply with and be bound by the following terms and conditions. Please read these carefully.",
+    "sections": {
+      "bookingAndReservations": {
+        "title": "Booking and Reservations",
+        "points": [
+          "A booking deposit is required to secure your reservation.",
+          "Cancellations are subject to a cancellation fee; refunds will be provided only in accordance with our cancellation policy.",
+          "Rates listed are subject to change without prior notice."
+        ]
+      },
+      "guestConduct": {
+        "title": "Guest Conduct",
+        "points": [
+          "Guests are expected to respect villa property and maintain cleanliness.",
+          "Loud parties or any unlawful activity are strictly prohibited.",
+          "The management reserves the right to evict guests who cause disturbances or damage property."
+        ]
+      },
+      "liability": {
+        "title": "Liability",
+        "points": [
+          "TheAceVillas.com is not liable for any loss, injury, or damage during your stay.",
+          "Guests are responsible for their personal belongings and any property damage."
+        ]
+      },
+      "changesToTerms": {
+        "title": "Changes to Terms",
+        "points": [
+          "We reserve the right to modify these Terms and Conditions at any time. Continued use of the website implies acceptance of these modifications."
+        ]
+      },
+      "contactUs": {
+        "title": "Contact Us",
+        "points": [
+          "For questions or concerns, please reach us at support@theacevillas.com."
+        ]
+      }
+    }
+  },
+  "Gallery": "Gallery Preview",
+  "header": {
+    "home": "Home",
+    "about": "About",
+    "villas": "Villas",
+    "location": "Location",
+    "reviews": "Reviews",
+    "contact": "Contact"
+  },
+  "testimonial": "What Our Guests Say"
+}

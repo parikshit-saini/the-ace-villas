@@ -1,0 +1,481 @@
+@import "../../index.scss";
+
+section.main {
+    background-image: url("../../assets/mainImage.webp");
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 250px 0 70px 0;
+    text-align: center;
+
+    &.pages {
+        background-image: none;
+        background: rgb(8, 25, 31);
+        background: radial-gradient(circle, rgba(8, 25, 31, 1) -8%, rgba(5, 13, 15, 1) 51%, rgba(8, 25, 31, 1) 100%);
+
+        p {
+            font-size: 18px;
+        }
+
+        h3 {
+            color: $light;
+            margin-bottom: 25px;
+        }
+    }
+
+    h1 {
+        color: $primary;
+    }
+
+    h2 {
+        font-family: "Rouge Script", cursive;
+        color: $light;
+        font-size: 60px;
+    }
+
+    p {
+        font-size: 25px;
+        color: $light;
+        max-width: 600px;
+        margin: 20px auto;
+        font-weight: 400;
+    }
+
+    .slideImage {
+        border: 5px solid $light;
+    }
+}
+
+section.about {
+    padding: 70px 0;
+    max-width: 600px;
+    text-align: center;
+    margin: auto;
+}
+
+section.exploreVillas {
+    text-align: center;
+    padding-bottom: 70px;
+
+    .villasContainer {
+        max-width: 443px;
+        margin: auto;
+
+        .imgContainer {
+            background-color: $primary;
+            max-width: 443px;
+            height: 431px;
+            object-fit: cover;
+            position: relative;
+            border-radius: 30px;
+
+
+            img {
+                transition: all 0.5s;
+                max-width: 443px;
+                z-index: 2;
+                position: absolute;
+                left: 0;
+                bottom: 0;
+            }
+
+            a {
+                color: $secondary;
+            }
+
+            p.simple {
+                font-size: 20px;
+                font-weight: 600;
+                position: absolute;
+                bottom: 10px;
+                right: 10px;
+                z-index: 1;
+                cursor: pointer;
+                margin-bottom: 0px;
+            }
+
+            &:hover {
+                img {
+                    transition: all 0.5s;
+                    transform: translateY(-50px) rotate(-5.82deg);
+                }
+            }
+        }
+
+    }
+}
+
+section.whychooseus {
+    padding: 70px 0;
+    background-image: url("../../assets/whyChooseUs.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    text-align: center;
+
+    h1 {
+        color: $primary;
+        margin-bottom: 100px;
+    }
+
+    .content {
+
+        background: linear-gradient(180deg, rgba(245, 245, 245, 0.1) 0%, rgba(143, 143, 143, 0.35) 100%);
+        backdrop-filter: blur(3.5px);
+        border-radius: 14px;
+        position: relative;
+        padding: 62px 15px 15px;
+        color: $light;
+        height: 100%;
+
+
+        .icon {
+            background: $gradient;
+            width: 104px;
+            height: 104px;
+            border-radius: 50%;
+            @include itemPosition(center, center);
+            position: absolute;
+            left: 50%;
+            transform: translateX(-50%);
+            top: -52px;
+
+
+            i {
+                color: $secondary;
+                font-size: 35px;
+            }
+        }
+    }
+}
+
+section.nearbyAttraction {
+    padding: 70px 0;
+    text-align: center;
+
+    .attractionCards {
+        gap: 20px;
+        flex-wrap: wrap;
+
+        .cardContainer {
+            border-radius: 15px;
+
+            img {
+                border-radius: 15px 15px 0 0;
+            }
+
+            p {
+                background-color: $primary;
+                color: $secondary;
+                border-radius: 0 0 15px 15px;
+                padding: 10px;
+                font-weight: 500;
+
+            }
+
+        }
+
+    }
+
+    p.heading {
+        max-width: 385px;
+        font-weight: 400;
+    }
+}
+
+section.bookStay {
+    padding: 70px 0;
+
+    .cardBox {
+        box-shadow: 4px 4px 13px rgba(0, 0, 0, 0.11);
+        border-radius: 22px;
+        padding: 8px;
+
+        img {
+            width: 100%;
+            height: 300px;
+            object-fit: cover;
+            margin-bottom: 10px;
+            border-radius: 12px
+        }
+
+        .content {
+            @include itemPosition(stratch, space-between);
+
+
+
+            .price {
+                background: $gradient;
+                box-shadow: 4px 4px 12px 4px rgba(0, 0, 0, 0.07);
+                border-radius: 22px;
+                @include itemPosition(center, space-around);
+                flex-direction: column;
+                text-align: center;
+                padding: 10px;
+
+                h4 {
+                    font-weight: 800
+                }
+
+            }
+        }
+    }
+}
+
+section.contact {
+    padding: 70px 0;
+
+    img {
+        object-fit: cover;
+    }
+}
+
+section.thankYou {
+    padding: 250px 0 70px;
+    background-image: url("../../assets/mainImage.webp");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    color: $light;
+
+    .compressed {
+        max-width: 500px;
+        margin: 20px auto;
+    }
+}
+
+section.policy {
+    .head {
+        background-color: $secondary;
+        color: $light;
+        text-align: center;
+        padding: 250px 0 40px;
+
+        .content {
+            max-width: 600px;
+            margin: auto;
+
+            h2 {
+                font-family: 'Rouge Script';
+            }
+        }
+    }
+
+    .policyContent {
+        background-color: rgba($color: $primary, $alpha: 0.2);
+        padding: 15px;
+        border-radius: 12px;
+        margin: 15px 0;
+
+        ul {
+            li {
+                a {
+                    font-weight: 600;
+                    color: $secondary;
+                }
+            }
+        }
+    }
+}
+
+section.villaAbout {
+    padding: 70px 0 0;
+
+    img {
+        border-radius: 12px;
+    }
+
+    .address {
+        padding: 15px;
+        border-radius: 12px;
+        background-color: $primary;
+    }
+}
+
+section.nearbyLocation {
+    padding: 70px 0;
+
+    p.data {
+        max-width: 650px;
+        margin: 15px auto;
+    }
+
+    .places-container {
+
+        .section {
+            margin-bottom: 20px;
+
+            .section-title {
+                border-left: 5px solid $primary;
+                padding-left: 10px;
+                margin: 0 0 25px 0;
+            }
+
+            .sub-title {
+                font-size: 1rem;
+                font-weight: bold;
+                margin-bottom: 10px;
+                color: #555;
+            }
+
+            ul {
+                list-style: none;
+                padding: 0;
+
+                .place-item {
+                    @include itemPosition(center, space-between);
+                    background: $light;
+                    border-radius: 8px;
+                    padding: 10px;
+                    margin-bottom: 18px;
+                    border: 1px solid $border;
+
+                    .distance {
+                        background: $primary;
+                        border-radius: 4px;
+                        padding: 3px 6px;
+                    }
+                }
+            }
+        }
+    }
+
+    .imageGallery {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        gap: 15px;
+    }
+
+}
+
+section.faq {
+
+    .accordion {
+        .accordion-item {
+            margin-bottom: 25px;
+            border: 1px solid $border;
+            border-radius: 12px;
+            overflow: hidden;
+
+            h2.accordion-header {
+                font-family: 'Poppins', 'Roboto', 'Oxygen';
+
+                .accordion-button {
+                    font-weight: 500;
+
+                    &:not(.collapsed) {
+                        color: $secondary;
+                        background-color: rgba($color: $primary, $alpha: 0.3);
+
+                        &::after {
+                            background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16' fill='%2308191F'%3e%3cpath fill-rule='evenodd' d='M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z'/%3e%3c/svg%3e")
+                        }
+                    }
+
+                    &:focus {
+                        box-shadow: none;
+                        background-color: rgba($color: $primary, $alpha: 0.5);
+                    }
+                }
+
+            }
+        }
+    }
+}
+
+.booking {
+    color: $light;
+    padding: 0 0 70px 0;
+
+    .bookinBg {
+        background-image: url("../../assets/bookBg.png");
+        background-size: cover;
+        background-position: center;
+        background-repeat: no-repeat;
+        padding: 40px 20px;
+        border-radius: 12px;
+
+        p.data {
+            max-width: 500px;
+        }
+
+        iframe {
+            border-radius: 15px;
+            height: 300px;
+        }
+    }
+}
+
+.formModal {
+    position: relative;
+
+    .btn-close {
+        position: absolute;
+        right: 15px;
+        top: 30px;
+        z-index: 1;
+
+        &:focus {
+            box-shadow: none;
+        }
+    }
+}
+
+.ContactDetails {
+    padding: 70px 0;
+
+    .contact {
+        margin: 25px 0;
+
+        .bookHeading {
+            @include itemPosition(center, flex-start);
+            gap: 15px;
+
+            i {
+                font-size: 25px;
+            }
+
+            p {
+                margin-bottom: 0;
+                font-weight: 600;
+                font-size: 25px;
+            }
+        }
+
+        ul {
+            li {
+                span {
+                    font-weight: 600;
+                    margin-right: 15px;
+                }
+
+                a {
+                    color: $secondary;
+                }
+            }
+        }
+    }
+}
+
+@media only screen and (max-width: 576px) {
+    section.exploreVillas {
+
+        .villasContainer {
+            max-width: 300px;
+
+            .imgContainer {
+                max-width: 300px;
+                height: 300px;
+
+                img {
+                    max-width: 300px;
+                    height: 300px;
+                }
+
+                p.simple {
+                    font-size: 16px;
+                }
+            }
+
+        }
+    }
+}

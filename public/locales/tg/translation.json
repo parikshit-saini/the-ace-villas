@@ -1,0 +1,971 @@
+{
+    "part": {
+        "main": "The Ace Villas",
+        "sub": "Ang Iyong Marangyang Pagtakas sa Thailand",
+        "desc": "Eksklusibong pribadong mga villa sa Pattaya na may modernong kagamitan at tahimik na kapaligiran.",
+        "button_1": "Tuklasin ang mga Villa",
+        "button_2": "Mag-book Ngayon"
+    },
+    "about": {
+        "heading": "Tungkol sa Amin",
+        "desc": "Ang Ace Villas ay nag-aalok ng koleksyon ng mga premium na pribadong pagmamay-ari na mga villa sa sentro ng Pattaya, Thailand. Kung naghahanap ka ng tahimik na pahingahan o masiglang pakikipagsapalaran, ang aming mga villa ay nagbibigay ng perpektong kumbinasyon ng kaginhawaan at karangyaan.",
+        "button": "Alamin Pa"
+    },
+    "exploreVilla": {
+        "heading": "Tuklasin ang Aming mga Villa",
+        "villa1": "Ang Ace Suk Sabai Villa",
+        "villa2": "Ang Ace Jomtien Villa",
+        "explore1": "Tuklasin ang Ace Suk Sabai Villa",
+        "explore2": "Tuklasin ang Ace Jomtien Villa",
+        "villa1description": "Isang modernong villa na may pribadong pool, marangyang disenyo, at malapit sa mga sikat na atraksyon sa Pattaya.",
+        "villa2description": "Isang elegante at maluwang na villa na nag-aalok ng walang kapantay na kaginhawaan at tahimik na pahingahan."
+    },
+    "whychooseus": {
+        "heading": "Bakit Pumili ng Ace Villas?",
+        "block1": {
+            "heading": "Pribadong mga Pool",
+            "desc": "Magpahinga sa aming eksklusibong mga pool na napapalibutan ng tropikal na hardin."
+        },
+        "block2": {
+            "heading": "Pangunahing Lokasyon",
+            "desc": "Ilang minuto lamang mula sa magagandang dalampasigan at nightlife ng Pattaya."
+        },
+        "block3": {
+            "heading": "Modernong Kaginhawaan",
+            "desc": "Ganap na kagamitan sa kusina, high-speed Wi-Fi, at elegante na kasangkapan."
+        },
+        "block4": {
+            "heading": "Personalized na Serbisyo",
+            "desc": "Kasama sa iyong pananatili ang concierge services para sa lahat ng iyong pangangailangan."
+        }
+    },
+    "nearbyAttraction": {
+        "heading": "Tuklasin ang Mga Kalapit na Atraksyon",
+        "description1": "Ang Ace Villas ay inilalagay ka sa gitna ng mga pinakamahusay na atraksyon sa Pattaya, na nagbibigay-daan sa mabilis na access sa mga natatanging karanasan at lokal na landmark.",
+        "description2": "Perpektong lokasyon para sa mga mahilig sa dalampasigan, nag-aalok ang Ace Villas ng madaling access sa ilan sa pinakamagagandang dalampasigan sa Pattaya. Gamitin ang araw sa paglangoy, pagpapahinga, o pagsubok ng kapanapanabik na water sports.",
+        "attractions": {
+            "name1": "Ripley's Believe It or Not",
+            "name2": "Pattaya Viewpoint",
+            "name3": "Jomtien Beach",
+            "name4": "Dongtan Beach"
+        }
+    },
+    "bookStay": {
+        "heading": "Mag-book ng Iyong Pananatili",
+        "subheading": "Handa Ka Na Bang Maranasan ang Ace Villas?",
+        "villa1": {
+            "name": "Ang Ace Jomtien Villa",
+            "desc": "Itong kahanga-hangang villa ay may 6 na maluluwag na kwarto at 6 na modernong banyo, na nagbibigay ng sapat na espasyo para sa malalaking pamilya o grupo. Perpektong lokasyon na malapit sa masiglang puso ng Pattaya, ang Ace Luxury Villa ay nag-aalok ng kombinasyon ng karangyaan at kaginhawaan.",
+            "features": {
+                "bedrooms": "6 Kwarto, 6 Banyo",
+                "privatePool": "Pribadong Pool at Sun Terrace",
+                "wifi": "High-Speed WiFi",
+                "kitchen": "Ganap na Kagamitan sa Kusina",
+                "parking": "Libreng Pribadong Parking"
+            },
+            "description": "Perpekto para sa malalaking grupo o pamilya",
+            "price": {
+                "amount": 13500,
+                "currency": "THB",
+                "per": "Gabi"
+            },
+            "button": "Mag-book Ngayon"
+        },
+        "villa2": {
+            "name": "Ang Ace Suk Sabai Villa",
+            "desc": "Nag-aalok ng 4 na kwarto at 4 na banyo, ang Gala Express ay ang ideal na pagpipilian para sa mas maliit na grupo o pamilya na naghahanap ng intimate ngunit marangyang pananatili. Sa modernong disenyo at tahimik na kapaligiran, ito ang perpektong pahingahan mula sa abalang lungsod.",
+            "features": {
+                "bedrooms": "4 Kwarto, 4 Banyo",
+                "privatePool": "Pribadong Outdoor Pool",
+                "streaming": "Streaming Services",
+                "bbq": "BBQ Facilities",
+                "parking": "Available ang Valet Parking"
+            },
+            "description": "Perpekto para sa mga pamilya at maliit na grupo",
+            "price": {
+                "amount": 12000,
+                "currency": "THB",
+                "per": "Gabi"
+            },
+            "button": "Mag-book Ngayon"
+        }
+    },
+    "contact": {
+        "heading": "Makipag-ugnayan sa Amin",
+        "image": {
+            "src": "contact",
+            "alt": "Larawan ng Pakikipag-ugnayan"
+        },
+        "form": {
+            "component": "Form"
+        }
+    },
+    "footer": {
+        "pages": "Mga Pahina",
+        "home": "Home",
+        "about": "Tungkol",
+        "villas": "Mga Villa",
+        "gallery": "Gallery",
+        "location": "Lokasyon",
+        "reviews": "Mga Review",
+        "contact": "Makipag-ugnayan",
+        "contactInfo": "Impormasyon sa Pakikipag-ugnayan",
+        "sukSabaiAddress": {
+            "title": "Ang Ace Suk Sabai Villa",
+            "details": "388/146 Moo.10 Suksabai Villa, Thepprasit Rd., Soi 8 Nongprue, Banglamung, 20150 Pattaya South, Thailand"
+        },
+        "jomtienAddress": {
+            "title": "Ang Ace Jomtien Villa",
+            "details": "418/69, 5 Phra Tamnak, Pattaya City, Bang Lamung District, Chon Buri 20150, Thailand"
+        },
+        "subscribeTitle": "Manatiling Nai-update!",
+        "subscribeDesc": "Mag-subscribe sa aming newsletter para sa mga pinakabagong update at alok.",
+        "emailPlaceholder": "Ilagay ang Iyong Email",
+        "successMessage": "Natanggap na ang Email! Maraming Salamat.",
+        "copyright": "Copyright © 2024 theacevillas",
+        "terms": "Mga Tuntunin at Kondisyon",
+        "privacy": "Patakaran sa Privacy",
+        "disclaimer": "Disclaimer"
+    },
+    "form": {
+        "heading": "Mag-usap Tayo",
+        "fields": {
+            "name": {
+                "label": "Buong Pangalan",
+                "placeholder": "Ilagay ang Iyong Pangalan"
+            },
+            "email": {
+                "label": "Email",
+                "placeholder": "Ilagay ang Iyong Email"
+            },
+            "phone": {
+                "label": "Numero ng Telepono",
+                "placeholder": "Ilagay ang Iyong Numero ng Telepono"
+            },
+            "message": {
+                "label": "Mensahe",
+                "placeholder": "Ilagay ang Iyong Mensahe"
+            }
+        },
+        "button": {
+            "text": "Ipadala"
+        }
+    },
+    "form2": {
+        "title": "Mag-book Ngayon",
+        "fields": {
+            "name": {
+                "label": "Buong Pangalan",
+                "placeholder": "Ilagay ang Iyong Pangalan"
+            },
+            "email": {
+                "label": "Email",
+                "placeholder": "Ilagay ang Iyong Email"
+            },
+            "phone": {
+                "label": "Numero ng Telepono",
+                "placeholder": "Ilagay ang Iyong Numero ng Telepono"
+            },
+            "villa": {
+                "label": "Piliin ang Villa",
+                "placeholder": "Piliin ang Villa",
+                "options": [
+                    "Ang Ace Suk Sabai Villa",
+                    "Ang Ace Jomtien Villa"
+                ]
+            },
+            "startDate": {
+                "label": "Petsa ng Check-in"
+            },
+            "endDate": {
+                "label": "Petsa ng Check-out"
+            },
+            "message": {
+                "label": "Mensahe",
+                "placeholder": "Ilagay ang Iyong Mensahe"
+            }
+        },
+        "button": {
+            "text": "Ipadala"
+        }
+    },
+    "aboutpage": {
+        "title": "Tungkol",
+        "heading": "Ang Ace Luxury Villas",
+        "description": [
+            "Maligayang pagdating sa The Ace Villas, ang iyong gateway sa walang kapantay na karangyaan at kaginhawaan sa sentro ng Pattaya, Thailand. Kami ay dedikado sa pagbibigay ng world-class hospitality sa pamamagitan ng aming premium villa accommodations, perpekto para sa mga pamilya, kaibigan, at mga manlalakbay na naghahanap ng tahimik ngunit masiglang pahingahan.",
+            "Sa The Ace Villas, naniniwala kami sa paglikha ng hindi malilimutang karanasan para sa aming mga bisita sa pamamagitan ng pagsasama ng kagandahan ng modernong kagamitan at init ng personalized na serbisyo. Ang aming dalawang kahanga-hangang villa, Ang Ace Jomtien Villa at Ang Ace Suk Sabai Villa, ay may marangyang disenyo, pribadong pool, at malapit sa ilan sa mga pinakakilalang atraksyon sa Pattaya."
+        ]
+    },
+    "contactPage": {
+        "heading": "Makipag-ugnayan sa Amin",
+        "desc": "Narito kami upang gawing hindi malilimutan ang iyong pananatili sa The Ace Villas. Kung mayroon kang mga katanungan, kailangan ng tulong sa bookings, o nais malaman pa ang tungkol sa aming mga villa, huwag mag-atubiling makipag-ugnayan sa amin."
+    },
+    "jomtiean": {
+        "home": {
+            "title": "The Ace Jomtien Villa",
+            "subtitle": "Ang Iyong Premium Getaway malapit sa Jomtien beach sa Pattaya",
+            "description": "Tumakas sa isang marangyang retreat sa The Ace Jomtien Villa, kung saan ang kontemporaryong elegance ay nakakatugon sa hindi matatawarang kaginhawahan. Idinisenyo upang tumanggap ng hanggang 12 bisita, ang villa na ito ay nag-aalok ng perpektong balanse ng pagpapahinga at sopistikasyon para sa isang hindi malilimutang bakasyon.",
+            "features": "6 Mga Silid-Tulugan | 6 Mga Banyo",
+            "buttonText": "Mag-Book Ngayon"
+        },
+        "about": {
+            "title": "Tungkol Sa",
+            "description": "Tuklasin ang alindog ng The Ace Jomtien Villa, matatagpuan sa puso ng Jomtien. Sa anim na maluluwang na silid-tulugan at isang pribadong pool, ang villa na ito ay isang perpektong kanlungan para sa mga pamilya at grupo na naghahanap ng isang tahimik ngunit marangyang pamamalagi. Bawat kwarto ay maingat na idinisenyo upang magbigay ng pinakamataas na kaginhawahan, na may mga modernong kagamitan at isang mahinahong ambiance.",
+            "addressHeading": "Address",
+            "address": "418/69, 5 Phra Tamnak, Pattaya City, Bang Lamung District, Chon Buri 20150, Thailand"
+        },
+        "amenities": {
+            "sectionTitle": "Mga Kagamitan at Pasilidad",
+            "categories": [
+                {
+                    "title": "Mga Outdoor na Kagamitan",
+                    "items": [
+                        "Pribadong swimming pool na may mga lounger",
+                        "Sun terrace at BBQ area para sa masayang mga gabi",
+                        "Libreng pribadong paradahan sa site"
+                    ]
+                },
+                {
+                    "title": "Mga Indoor na Kagamitan",
+                    "items": [
+                        "Maluwang na living area na may mga malalambot na sofa at flat-screen TV",
+                        "Ganap na kagamitan sa kusina na may microwave, refrigerator, stovetop, at iba pa",
+                        "Dining area na perpekto para sa mga pang-grupong pagkain",
+                        "Mabilis na WiFi at mga streaming service tulad ng Netflix para sa aliw"
+                    ]
+                },
+                {
+                    "title": "Mga Kagamitan sa Silid-Tulugan at Banyo",
+                    "items": [
+                        "Mga bagong linens, tuwalya, at mga gamit sa banyo na ibinibigay",
+                        "Pribadong mga banyo na may mainit na tubig, libreng toiletries, at hairdryer",
+                        "Libreng pribadong paradahan sa site"
+                    ]
+                }
+            ]
+        },
+        "mostPopularFacilities": "Pinakapopular na mga pasilidad",
+        "facilities": {
+            "entirePlace": "Ang buong lugar ay iyo",
+            "size": "240 m² laki",
+            "swimmingPool": "Outdoor swimming pool",
+            "parking": "Libreng paradahan sa site",
+            "bathroom": "Pribadong banyo",
+            "balcony": "Balkonahe",
+            "airportShuttle": "Airport shuttle",
+            "airConditioning": "Air conditioning",
+            "bbqFacilities": "BBQ facilities",
+            "familyRooms": "Mga kuwarto para sa pamilya",
+            "wifi": "Libreng WiFi",
+            "nonSmokingRooms": "Mga kuwarto na walang paninigarilyo",
+            "terrace": "Terrace"
+        },
+        "locationHighlights": {
+            "title": "Mga Highlight ng Lokasyon",
+            "description": "Tuklasin ang Jomtien ng walang hirap. Ang The Ace Jomtien Villa ay perpektong matatagpuan, inilalagay ang mga nangungunang atraksyon na madaling maabot:",
+            "sections": [
+                {
+                    "category": "Mga Nangungunang Atraksyon",
+                    "items": [
+                        {
+                            "name": "Ripley's Believe It or Not",
+                            "distance": "3.7 km"
+                        },
+                        {
+                            "name": "Pattaya Viewpoint",
+                            "distance": "1.8 km"
+                        },
+                        {
+                            "name": "Underwater World Pattaya",
+                            "distance": "5.9 km"
+                        }
+                    ]
+                },
+                {
+                    "category": "Mga Malapit na Beach",
+                    "items": [
+                        {
+                            "name": "Pattaya Beach",
+                            "distance": "3.2 km"
+                        },
+                        {
+                            "name": "Dongtan Beach",
+                            "distance": "1.2 km"
+                        },
+                        {
+                            "name": "Jomtien Beach",
+                            "distance": "650 m"
+                        }
+                    ]
+                },
+                {
+                    "category": "Pagkain at Pamimili",
+                    "subCategory": "Mag-enjoy ng iba't ibang pagpipilian sa pagkain at maginhawang pamimili malapit:",
+                    "items": [
+                        {
+                            "name": "La Bocca Italian Restaurant and Pizzeria",
+                            "distance": "2.3 km"
+                        },
+                        {
+                            "name": "Natan's",
+                            "distance": "2.2 km"
+                        },
+                        {
+                            "name": "Akvavit Grill & Bar",
+                            "distance": "2.1 km"
+                        },
+                        {
+                            "name": "Sandbar By The Sea",
+                            "distance": "1.7 km"
+                        }
+                    ]
+                },
+                {
+                    "category": "Mga Supermarket",
+                    "items": [
+                        {
+                            "name": "Big C",
+                            "distance": "5 km"
+                        },
+                        {
+                            "name": "Friendship Supermarket",
+                            "distance": "3.4 km"
+                        }
+                    ]
+                },
+                {
+                    "category": "Pampublikong Transportasyon",
+                    "items": [
+                        {
+                            "name": "Pattaya South",
+                            "distance": "3.1 km"
+                        },
+                        {
+                            "name": "Pattaya Railway Station",
+                            "distance": "7.7 km"
+                        },
+                        {
+                            "name": "Pattaya Bus Terminal",
+                            "distance": "7.6 km"
+                        },
+                        {
+                            "name": "U-Tapao Rayong-Pattaya International Airport",
+                            "distance": "35.4 km"
+                        }
+                    ]
+                }
+            ]
+        },
+        "faq": {
+            "title": "FAQ Tungkol sa The Ace Jomtien Villa",
+            "questions": [
+                {
+                    "question": "Ilan ang mga silid-tulugan ng The Ace Jomtien Villa?",
+                    "answer": "Ang The Ace Jomtien Villa ay may 6 na silid-tulugan. Para sa detalyadong breakdown ng tirahan, mangyaring tingnan ang pahinang ito."
+                },
+                {
+                    "question": "Popular ba ang The Ace Jomtien Villa para sa mga pamilya?",
+                    "answer": "Oo, ang The Ace Jomtien Villa ay isang popular na pagpipilian para sa mga pampamilyang pamamalagi."
+                },
+                {
+                    "question": "May pool ba ang The Ace Jomtien Villa?",
+                    "answer": "Oo, ang villa ay may pool. Makikita mo ang higit pang mga detalye tungkol sa pool at iba pang mga pasilidad sa pahinang ito."
+                },
+                {
+                    "question": "Anong mga aktibidad ang available sa The Ace Jomtien Villa?",
+                    "answer": "Nag-aalok ang The Ace Jomtien Villa ng mga aktibidad tulad ng isang game room at swimming pool (maaaring may karagdagang bayad)."
+                },
+                {
+                    "question": "Magkano ang gastos para manatili sa The Ace Jomtien Villa?",
+                    "answer": "Ang mga presyo ay nag-iiba depende sa iyong mga petsa ng pamamalagi at mga patakaran ng villa. Mangyaring suriin ang mga presyo sa pamamagitan ng pag-input ng iyong mga petsa."
+                },
+                {
+                    "question": "Ilan ang mga bisita na maaaring matulog sa The Ace Jomtien Villa?",
+                    "answer": "Ang villa ay maaaring tumanggap ng hanggang 12 bisita. Para sa detalyadong impormasyon, tingnan ang breakdown ng tirahan sa pahinang ito."
+                },
+                {
+                    "question": "May pribadong pool ba ang The Ace Jomtien Villa?",
+                    "answer": "Oo, ang villa ay may kasamang pribadong pool. Higit pang mga detalye ay makikita sa pahinang ito."
+                },
+                {
+                    "question": "Ano ang mga oras ng check-in at check-out sa The Ace Jomtien Villa?",
+                    "answer": "Ang check-in ay mula 14:00, at ang check-out ay hanggang 11:00."
+                },
+                {
+                    "question": "May terrace ba ang The Ace Jomtien Villa?",
+                    "answer": "Oo, ang villa ay may mga opsyon na may terrace. Alamin ang higit pang mga detalye tungkol sa mga pasilidad sa pahinang ito."
+                },
+                {
+                    "question": "May balkonahe ba ang The Ace Jomtien Villa?",
+                    "answer": "Oo, ang ilang mga opsyon sa villa ay may balkonahe. Higit pang mga detalye ay makikita sa pahinang ito."
+                }
+            ]
+        },
+        "booking": {
+            "title": "Impormasyon sa Pag-book",
+            "description": "Mag-book ng iyong pamamalagi sa The Ace Jomtien Villa ngayon para sa isang hindi malilimutang karanasan sa Pattaya.",
+            "rate": "Presyo Kada Gabi: 13500 THB/gabi",
+            "button": "Mag-Book Ngayon"
+        }
+    },
+    "SukSabai": {
+        "home": {
+            "title": "The Ace Suk Sabai Villa",
+            "subtitle": "Ang Iyong Pribadong Oasis sa Pattaya",
+            "description": "Maramdaman ang luxury at kaginhawahan sa The Ace Suk Sabai Villa, kung saan ang mga modernong amenities at kamangha-manghang kapaligiran ay maghahatid ng isang hindi malilimutang paglagi.",
+            "features": "4 Silid-tulugan | 4 Banyo",
+            "buttonText": "Mag-book Ngayon"
+        },
+        "about": {
+            "title": "Tungkol",
+            "description": "Maligayang pagdating sa The Ace Suk Sabai Villa. Matatagpuan sa puso ng Pattaya, ang The Ace Suk Sabai Villa ay isang marangyang 4-silid-tulugan na retreat na dinisenyo para sa pagpapahinga at kasophistikaduhan. Sa isang pangunahing lokasyon malapit sa mga pinaka-popular na beach at atraksiyon sa lungsod, ang The Ace Suk Sabai Villa ay nag-aalok ng perpektong pagtakas para sa mga pamilya, grupo, o magkasintahan na naghahanap ng isang pribado at maginhawang bakasyon.",
+            "addressHeading": "Tirahan",
+            "address": "388/146 Moo.10 Suksabai Villa, Thepprasit Rd., Soi 8 Nongprue, Banglamung, 20150 Pattaya South, Thailand"
+        },
+        "amenities": {
+            "sectionTitle": "Mga Amenities at Pasilidad",
+            "categories": [
+                {
+                    "title": "Outdoor Amenities",
+                    "items": [
+                        "Pribadong swimming pool na may mga loungers",
+                        "Sun terrace at BBQ area para sa mga masayang gabi",
+                        "Libreng pribadong paradahan sa lugar"
+                    ]
+                },
+                {
+                    "title": "Indoor Amenities",
+                    "items": [
+                        "Maluwag na living area na may mga malalambot na sofa at flat-screen TV",
+                        "Ganap na kagamitan sa kusina na may microwave, refrigerator, stovetop, at marami pa",
+                        "Lugar-kainan na perpekto para sa mga grupong pagkain",
+                        "Mabilis na WiFi at streaming service tulad ng Netflix para sa aliw"
+                    ]
+                },
+                {
+                    "title": "Mga Kagamitan sa Silid-tulugan at Banyo",
+                    "items": [
+                        "Bagong bed linens, tuwalya, at toiletries na ibinibigay",
+                        "Pribadong banyo na may malamig na tubig, libreng toiletries, at hairdryer",
+                        "Libreng pribadong paradahan sa lugar"
+                    ]
+                }
+            ]
+        },
+        "mostPopularFacilities": "Pinakapopular na mga pasilidad",
+        "facilities": {
+            "entirePlace": "Ang Buong lugar ay iyo",
+            "size": "240 m² sukat",
+            "swimmingPool": "Outdoor swimming pool",
+            "parking": "Libreng paradahan sa lugar",
+            "bathroom": "Pribadong banyo",
+            "balcony": "Balkonahe",
+            "airportShuttle": "Airport shuttle",
+            "airConditioning": "Air conditioning",
+            "bbqFacilities": "BBQ pasilidad",
+            "familyRooms": "Mga silid-pamilya",
+            "wifi": "Libreng WiFi",
+            "nonSmokingRooms": "Mga silid na hindi pinapayagan ang paninigarilyo",
+            "terrace": "Terasa"
+        },
+        "locationHighlights": {
+            "title": "Mga Highlight ng Lokasyon",
+            "description": "Tuklasin ang Pattaya nang madali. Ang The Ace Suk Sabai Villa ay nasa isang ideal na lokasyon, na may ilang tanyag na atraksiyon na nasa isang maikling distansya lamang:",
+            "sections": [
+                {
+                    "category": "Mga Nangungunang Atraksiyon",
+                    "items": [
+                        {
+                            "name": "Ripley's Believe It or Not",
+                            "distance": "2.8 km"
+                        },
+                        {
+                            "name": "Pattaya Viewpoint",
+                            "distance": "3.3 km"
+                        },
+                        {
+                            "name": "Underwater World Pattaya",
+                            "distance": "3 km"
+                        }
+                    ]
+                },
+                {
+                    "category": "Mga Malapit na Beach",
+                    "items": [
+                        {
+                            "name": "Pattaya Beach",
+                            "distance": "2.2 km"
+                        },
+                        {
+                            "name": "Dongtan Beach",
+                            "distance": "3 km"
+                        },
+                        {
+                            "name": "Jomtien Beach",
+                            "distance": "3.2 km"
+                        }
+                    ]
+                },
+                {
+                    "category": "Pagkain at Pamimili",
+                    "subCategory": "Mag-enjoy sa isang malawak na hanay ng mga kainan at madaling pamimili malapit:",
+                    "items": [
+                        {
+                            "name": "Camel Toe",
+                            "distance": "200 m"
+                        },
+                        {
+                            "name": "The Lion Pub",
+                            "distance": "250 m"
+                        },
+                        {
+                            "name": "Thai German house",
+                            "distance": "350 m"
+                        }
+                    ]
+                },
+                {
+                    "category": "Mga Supermarket",
+                    "items": [
+                        {
+                            "name": "Big C",
+                            "distance": "2.1 km"
+                        },
+                        {
+                            "name": "Friendship Supermarket",
+                            "distance": "2.1 km"
+                        }
+                    ]
+                },
+                {
+                    "category": "Pampublikong Transportasyon",
+                    "items": [
+                        {
+                            "name": "Pattaya South",
+                            "distance": "2.6 km"
+                        },
+                        {
+                            "name": "Pattaya Railway Station",
+                            "distance": "5 km"
+                        },
+                        {
+                            "name": "Pattaya Bus Terminal",
+                            "distance": "6 km"
+                        },
+                        {
+                            "name": "U-Tapao Rayong-Pattaya International Airport",
+                            "distance": "46 km"
+                        }
+                    ]
+                }
+            ]
+        },
+        "faq": {
+            "title": "FAQ Tungkol sa The Ace Suk Sabai Villa",
+            "questions": [
+                {
+                    "question": "Ilan ang mga silid-tulugan sa The Ace Suk Sabai Villa?",
+                    "answer": "Ang The Ace Suk Sabai Villa ay may 4 na silid-tulugan. Para sa isang detalyadong breakdown ng mga accommodation, mangyaring tingnan ang pahinang ito."
+                },
+                {
+                    "question": "Popular ba ang The Ace Suk Sabai Villa sa mga pamilya?",
+                    "answer": "Oo, ang The Ace Suk Sabai Villa ay isang popular na pagpipilian para sa mga family stay."
+                },
+                {
+                    "question": "May pool ba ang The Ace Suk Sabai Villa?",
+                    "answer": "Oo, may pool ang villa. Makikita ang iba pang detalye tungkol sa pool at mga pasilidad sa pahinang ito."
+                },
+                {
+                    "question": "Anong mga aktibidad ang available sa The Ace Suk Sabai Villa?",
+                    "answer": "Nag-aalok ang The Ace Suk Sabai Villa ng mga aktibidad tulad ng games room at swimming pool (maaaring may bayad)."
+                },
+                {
+                    "question": "Magkano ang halaga para magstay sa The Ace Suk Sabai Villa?",
+                    "answer": "Ang mga presyo ay nag-iiba depende sa iyong mga petsa ng stay at mga patakaran ng villa. Mangyaring tingnan ang presyo sa pamamagitan ng pag-enter ng iyong mga petsa."
+                },
+                {
+                    "question": "Ilan ang mga bisitang pwedeng mag-stay sa The Ace Suk Sabai Villa?",
+                    "answer": "Maaaring mag-accommodate ang villa ng hanggang 10 bisita. Para sa detalyadong impormasyon, tingnan ang breakdown ng accommodation sa pahinang ito."
+                },
+                {
+                    "question": "May pribadong pool ba ang The Ace Suk Sabai Villa?",
+                    "answer": "Oo, may pribadong pool ang villa. Makikita ang iba pang detalye sa pahinang ito."
+                },
+                {
+                    "question": "Ano ang mga oras ng check-in at check-out sa The Ace Suk Sabai Villa?",
+                    "answer": "Ang check-in ay mula 14:00, at ang check-out ay hanggang 11:00."
+                },
+                {
+                    "question": "May terrace ba ang The Ace Suk Sabai Villa?",
+                    "answer": "Oo, may mga opsyon na may terrace sa villa. Alamin ang iba pang mga pasilidad sa pahinang ito."
+                },
+                {
+                    "question": "May balcony ba ang The Ace Suk Sabai Villa?",
+                    "answer": "Oo, may mga opsyon sa villa na may balcony. Alamin ang iba pang mga detalye sa pahinang ito."
+                },
+                {
+                    "question": "Gaano kalayo ang The Ace Suk Sabai Villa mula sa sentro ng Pattaya South?",
+                    "answer": "Ang The Ace Suk Sabai Villa ay matatagpuan 800 metro mula sa sentro ng Pattaya South. Maaaring magbago ang mga distansya sa pagbiyahe."
+                }
+            ]
+        },
+        "booking": {
+            "title": "Impormasyon sa Pag-book",
+            "description": "Mag-book ng iyong stay sa The Ace Suk Sabai Villa ngayon para sa isang hindi malilimutang karanasan sa Pattaya.",
+            "rate": "Nightly Rate: 12000  THB/gabi",
+            "button": "Mag-book Ngayon"
+        }
+    },
+    "aceCondo": {
+        "home": {
+            "title": "ACE Sea View Condo",
+            "subtitle": "Pagandahin ang iyong karanasan sa ACE Condo",
+            "description": "Ang ACE Condo ay matatagpuan sa South Pattaya at nag-aalok ng mga accommodation na may pribadong pool, libreng Wi-Fi, at libreng pribadong paradahan. Ang unit ay may air-conditioning at 1.5 km mula sa Cozy Beach, na may elevator at shared kitchen.",
+            "features": "1 Silid-tulugan | 1 Banyo",
+            "buttonText": "Magpareserba Ngayon"
+        },
+        "about": {
+            "title": "Tungkol sa Amin",
+            "description": "Ang maluwag na condo ay nagtatampok ng balcony, 1 silid-tulugan, sala, at fully equipped na kusina. Mayroong flat-screen TV na may tanawin ng hardin. Nag-aalok din ng bike rental at car rental service. Ang ACE Condo ay 1.8 km mula sa Paradise Beach, 42 km mula sa Bangpra International Golf Club, at 46 km mula sa U-Tapao Rayong-Pattaya International Airport.",
+            "addressHeading": "Address",
+            "address": "163 Phra Tamnak, 20260 South Pattaya, Thailand"
+        },
+        "amenities": {
+            "sectionTitle": "Mga Kagamitan at Serbisyo",
+            "categories": [
+                {
+                    "title": "Panlabas na Kagamitan",
+                    "items": [
+                        "Mag-enjoy sa picnic area gamit ang eleganteng outdoor furniture.",
+                        "Mag-relax sa pribadong pool o mag-enjoy ng tanawin mula sa balcony.",
+                        "Libreng pribadong paradahan na inaalok."
+                    ]
+                },
+                {
+                    "title": "Panloob na Kagamitan",
+                    "items": [
+                        "Maluwang na living space na may komportableng sofa at flat-screen TV.",
+                        "Fully equipped na kusina na may microwave, refrigerator, at stove.",
+                        "High-speed Wi-Fi at streaming services tulad ng Netflix."
+                    ]
+                },
+                {
+                    "title": "Mga Silid-tulugan at Kagamitan sa Banyo",
+                    "items": [
+                        "Sariwang bed linen, tuwalya, at toiletries na inihanda.",
+                        "Pribadong banyo na may hot water, libreng toiletries, at hair dryer.",
+                        "Libreng pribadong paradahan."
+                    ]
+                }
+            ]
+        },
+        "mostPopularFacilities": "Pinakasikat na Pasilidad",
+        "facilities": {
+            "entirePlace": "Eksklusibong gamit ng buong unit",
+            "size": "60㎡",
+            "kitchen": "Kusina",
+            "View": "Tanawin",
+            "Pets": "Puwedeng may alagang hayop",
+            "Washingmachine": "Washing Machine",
+            "swimmingPool": "Panlabas na swimming pool",
+            "wifi": "Libreng Wi-Fi",
+            "balcony": "Balcony",
+            "parking": "Libreng onsite na parking",
+            "bathroom": "Pribadong banyo",
+            "airConditioning": "Air-conditioning"
+        },
+        "locationHighlights": {
+            "title": "Mga Highlight ng Lokasyon",
+            "description": "Mag-explore ng Pattaya nang madali. Ang ACE Condo ay may convenient na lokasyon na malapit sa mga pangunahing atraksyon:",
+            "sections": [
+                {
+                    "category": "Mga Pangunahing Atraksyon",
+                    "items": [
+                        {
+                            "name": "Ripley's Believe It or Not Museum",
+                            "distance": "1.6km"
+                        },
+                        {
+                            "name": "Pattaya Viewpoint",
+                            "distance": "950m"
+                        },
+                        {
+                            "name": "South Pattaya Real Estate",
+                            "distance": "1km"
+                        },
+                        {
+                            "name": "Flying Gibbon",
+                            "distance": "2.3km"
+                        },
+                        {
+                            "name": "Pattaya Park Tower",
+                            "distance": "2.3km"
+                        }
+                    ]
+                },
+                {
+                    "category": "Mga Kalapit na Beach",
+                    "items": [
+                        {
+                            "name": "Cozy Beach",
+                            "distance": "1.5km"
+                        },
+                        {
+                            "name": "Pattaya Beach",
+                            "distance": "1.6km"
+                        },
+                        {
+                            "name": "Paradise Beach",
+                            "distance": "1.8km"
+                        },
+                        {
+                            "name": "Pratumnak Beach",
+                            "distance": "2.3km"
+                        },
+                        {
+                            "name": "Dongtan Beach",
+                            "distance": "2.5km"
+                        }
+                    ]
+                },
+                {
+                    "category": "Mga Restawran at Kapehan",
+                    "subCategory": "Mag-enjoy ng iba't ibang food options at convenient shopping:",
+                    "items": [
+                        {
+                            "name": "Cafe/Bar SL Sports Lounge",
+                            "distance": "250m"
+                        },
+                        {
+                            "name": "Cafe/Bar Belgian Beer Bar Pattaya",
+                            "distance": "900m"
+                        },
+                        {
+                            "name": "Cafe/Bar Mokador",
+                            "distance": "1.1km"
+                        }
+                    ]
+                },
+                {
+                    "category": "Mga Pangunahing Landmark",
+                    "items": [
+                        {
+                            "name": "Underwater World Pattaya",
+                            "distance": "5km"
+                        },
+                        {
+                            "name": "Mini Siam",
+                            "distance": "6km"
+                        },
+                        {
+                            "name": "Bottle Art Museum",
+                            "distance": "6km"
+                        },
+                        {
+                            "name": "Na Baan Pier",
+                            "distance": "10km"
+                        }
+                    ]
+                },
+                {
+                    "category": "Transportasyon",
+                    "items": [
+                        {
+                            "name": "South Pattaya Bus Terminal",
+                            "distance": "4.9km"
+                        },
+                        {
+                            "name": "Pattaya Railway Station",
+                            "distance": "5km"
+                        },
+                        {
+                            "name": "Pattaya Bus Terminal",
+                            "distance": "5km"
+                        },
+                        {
+                            "name": "U-Tapao Rayong-Pattaya International Airport",
+                            "distance": "45km"
+                        }
+                    ]
+                }
+            ]
+        },
+        "faq": {
+            "title": "Mga Madalas Itanong Tungkol sa ACE Condo",
+            "questions": [
+                {
+                    "question": "Gaano kalayo ang ACE Condo mula sa sentro ng South Pattaya?",
+                    "answer": "Ang ACE Condo ay 800m mula sa sentro ng South Pattaya. Ang lahat ng distansya ay sinusukat nang diretso, at ang aktwal na paglalakbay ay maaaring magkaiba."
+                },
+                {
+                    "question": "Anong mga aktibidad ang maaaring gawin sa ACE Condo?",
+                    "answer": "Nag-aalok ang ACE Condo ng pool, recreation activities, at paid bike rental services."
+                },
+                {
+                    "question": "May pribadong pool ba ang ACE Condo?",
+                    "answer": "Oo, may pribadong pool. Maaari mong makita ang higit pang detalye sa pahinang ito."
+                },
+                {
+                    "question": "Gaano kalapit ang ACE Condo sa beach?",
+                    "answer": "Ang pinakamalapit na beach ay 1.1km mula sa ACE Condo. Ang lahat ng distansya ay sinusukat nang diretso, at ang aktwal na paglalakbay ay maaaring magkaiba."
+                },
+                {
+                    "question": "Ano ang oras ng check-in at check-out sa ACE Condo?",
+                    "answer": "Ang check-in sa ACE Condo ay mula 15:00, at ang check-out ay hanggang 00:00."
+                },
+                {
+                    "question": "Ilan ang silid sa ACE Condo?",
+                    "answer": "Ang ACE Condo ay may 1 silid-tulugan. Tingnan ang mga opsyon ng accommodation para sa higit pang detalye."
+                },
+                {
+                    "question": "Angkop ba ang ACE Condo para sa pamilya?",
+                    "answer": "Oo, popular ang ACE Condo sa mga pamilyang manlalakbay."
+                },
+                {
+                    "question": "Ilang tao ang maaaring tumuloy sa ACE Condo?",
+                    "answer": "Ang ACE Condo ay maaaring tumanggap ng hanggang 3 tao."
+                },
+                {
+                    "question": "Magkano ang singil para sa ACE Condo?",
+                    "answer": "Ang presyo ng ACE Condo ay nag-iiba depende sa petsa ng booking at hotel policy. Ilagay ang iyong mga petsa upang makita ang presyo."
+                },
+                {
+                    "question": "May pool ba ang ACE Condo?",
+                    "answer": "Oo, ang hotel na ito ay may pool. Tingnan ang higit pang detalye sa pahinang ito."
+                },
+                {
+                    "question": "May balcony ba ang ACE Condo?",
+                    "answer": "Oo, ang hotel na ito ay nag-aalok ng mga unit na may balcony. Tingnan ang mga detalye sa pahinang ito."
+                }
+            ]
+        },
+        "booking": {
+            "title": "Impormasyon sa Pag-book",
+            "description": "I-book na ang ACE Condo para sa isang hindi malilimutang karanasan sa Pattaya.",
+            "rate": "Rate: 2,100 THB/bawat gabi",
+            "button": "Magpareserba Ngayon"
+        }
+    },
+    "disclaimer": {
+        "title": "Pagtatanggi",
+        "welcome": "Maligayang pagdating sa The Ace Villas",
+        "generalInfo": "Pangkalahatang Impormasyon Lamang",
+        "sections": {
+            "noWarranties": {
+                "title": "Walang Mga Garantiyang Ibinibigay",
+                "content": "Ang impormasyong matatagpuan sa TheAceVillas.com ay ibinibigay \"as is\". Hindi namin ginagarantiya ang katumpakan, pagiging maaasahan, o kumpletong impormasyon na ibinibigay."
+            },
+            "limitedLiability": {
+                "title": "Limitadong Pananagutan",
+                "content": "Ang TheAceVillas.com at ang mga kaugnay na kumpanya nito ay hindi mananagot para sa anumang direktang, hindi direktang, o kinahinatnan na pinsala na dulot ng paggamit o hindi paggamit ng website na ito o ang mga serbisyo nito."
+            },
+            "bookingDisclaimer": {
+                "title": "Pagtatanggi sa Pag-book",
+                "content": "Ang mga deskripsyon ng kwarto, mga amenities, at pagkakaroon ay maaaring magbago. Ang TheAceVillas.com ay hindi mananagot sa mga pagkakaiba sa pagitan ng nakalistang impormasyon at aktwal na mga tampok ng ari-arian."
+            },
+            "thirdPartyLinks": {
+                "title": "Mga Link ng Ikatlong Partido",
+                "content": "Ang aming website ay maaaring maglaman ng mga link sa mga website ng ikatlong partido. Hindi namin ineendorso at hindi kami responsable sa nilalaman ng mga site na ito."
+            },
+            "contactUs": {
+                "title": "Makipag-ugnayan sa Amin",
+                "content": "Para sa anumang mga katanungan ukol sa aming Pagtatanggi, mangyaring makipag-ugnayan sa amin sa"
+            }
+        },
+        "email": "support@theacevillas.com"
+    },
+    "privacy": {
+        "title": "Patakaran sa Pagkapribado",
+        "subtitle": "Mahalaga sa Amin ang Iyong Privacy",
+        "description": "Ang Patakaran sa Pagkapribado na ito ay nagpapaliwanag kung paano namin hinahawakan ang iyong personal na impormasyon.",
+        "sections": {
+            "informationWeCollect": {
+                "title": "Impormasyong Kinokolekta Namin",
+                "points": [
+                    "Kinokolekta namin ang impormasyong ibinibigay mo, tulad ng iyong pangalan, impormasyon sa pakikipag-ugnayan, at mga detalye ng pagbabayad.",
+                    "Maari rin kaming mangolekta ng impormasyong awtomatikong nakolekta, kabilang ang mga IP address at cookies upang mapabuti ang iyong karanasan sa paggamit."
+                ]
+            },
+            "howWeUse": {
+                "title": "Paano Namin Ginagamit ang Iyong Impormasyon",
+                "points": [
+                    "Para iproseso ang mga booking at pamahalaan ang mga reserbasyon.",
+                    "Upang magpadala ng mga update, mga alok, at tumugon sa iyong mga tanong.",
+                    "Para sa mga layuning analitiko upang mapabuti ang aming mga serbisyo at karanasan ng gumagamit."
+                ]
+            },
+            "thirdPartySharing": {
+                "title": "Pagbabahagi ng Impormasyon sa Ikatlong Partido",
+                "points": [
+                    "Maari naming ibahagi ang iyong impormasyon sa mga ikatlong partido lamang para sa pagproseso ng bayad, pag-iwas sa panlilinlang, o pagsunod sa mga legal na obligasyon.",
+                    "Hindi namin ibinebenta o pinapalitan ang personal na impormasyon sa mga ikatlong partido."
+                ]
+            },
+            "cookies": {
+                "title": "Cookies",
+                "points": [
+                    "Ang aming website ay gumagamit ng cookies upang mapabuti ang karanasan ng gumagamit. Sa pamamagitan ng paggamit ng aming site, pumapayag ka sa paggamit ng cookies ayon sa Patakaran sa Pagkapribado na ito."
+                ]
+            },
+            "yourRights": {
+                "title": "Iyong Mga Karapatan",
+                "points": [
+                    "Mayroon kang karapatang ma-access, baguhin, o hilingin ang pagbura ng iyong personal na impormasyon. Makipag-ugnayan sa amin sa support@theacevillas.com para sa tulong."
+                ]
+            }
+        }
+    },
+    "terms": {
+        "title": "Mga Tuntunin at Kondisyon",
+        "subtitle": "Maligayang pagdating sa The Ace Villas",
+        "description": "Sa paggamit o pag-access ng aming website, pumapayag kang sumunod at maging obligado sa mga sumusunod na tuntunin at kondisyon. Mangyaring basahin ito nang maigi.",
+        "sections": {
+            "bookingAndReservations": {
+                "title": "Pag-book at mga Reservasyon",
+                "points": [
+                    "Kinakailangan ang isang deposito upang matiyak ang iyong reserbasyon.",
+                    "Ang mga kanselasyon ay may kaukulang bayad sa kanselasyon; ang mga refund ay ibibigay lamang ayon sa aming patakaran sa kanselasyon.",
+                    "Ang mga rate na nakalista ay maaaring magbago nang walang paunang abiso."
+                ]
+            },
+            "guestConduct": {
+                "title": "Pag-uugali ng Bisita",
+                "points": [
+                    "Inaasahan ang mga bisita na igalang ang ari-arian ng villa at panatilihin ang kalinisan.",
+                    "Ang mga malalakas na party o anumang ilegal na aktibidad ay mahigpit na ipinagbabawal.",
+                    "May karapatan ang pamunuan na paalisin ang mga bisitang nagdudulot ng istorbo o nagsisira ng ari-arian."
+                ]
+            },
+            "liability": {
+                "title": "Pananagutan",
+                "points": [
+                    "Ang TheAceVillas.com ay hindi mananagot para sa anumang pagkawala, pinsala, o aksidente sa panahon ng iyong pananatili.",
+                    "Ang mga bisita ay responsable sa kanilang mga personal na gamit at anumang pinsala sa ari-arian."
+                ]
+            },
+            "changesToTerms": {
+                "title": "Mga Pagbabago sa mga Tuntunin",
+                "points": [
+                    "Iniiwasan namin ang karapatang baguhin ang mga Tuntunin at Kondisyon sa anumang oras. Ang patuloy na paggamit ng website ay nangangahulugang tinatanggap mo ang mga pagbabagong ito."
+                ]
+            },
+            "contactUs": {
+                "title": "Makipag-ugnayan sa Amin",
+                "points": [
+                    "Para sa mga tanong o alalahanin, mangyaring makipag-ugnayan sa amin sa support@theacevillas.com."
+                ]
+            }
+        }
+    },
+    "Gallery": "Gallery Preview",
+    "header": {
+        "home": "Home",
+        "about": "Tungkol",
+        "villas": "Mga Villa",
+        "location": "Lokasyon",
+        "reviews": "Mga Review",
+        "contact": "Makipag-ugnayan"
+    },
+    "testimonial": "Ano ang Sabi ng Aming mga Bisita"
+}

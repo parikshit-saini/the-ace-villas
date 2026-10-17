@@ -1,0 +1,971 @@
+{
+    "part": {
+        "main": "The Ace Villas",
+        "sub": "您在泰国的奢华度假之地",
+        "desc": "位于芭堤雅的独家私人别墅，配有现代化设施和宁静的环境。",
+        "button_1": "探索别墅",
+        "button_2": "立即预订"
+    },
+    "about": {
+        "heading": "关于我们",
+        "desc": "Ace Villas 提供位于泰国芭堤雅市中心的高端私人别墅。无论您是寻找宁静的度假胜地还是充满冒险的旅行，我们的别墅都能提供舒适与奢华的完美融合。",
+        "button": "了解更多"
+    },
+    "exploreVilla": {
+        "heading": "探索我们的别墅",
+        "villa1": "The Ace Suk Sabai Villa",
+        "villa2": "The Ace Jomtien Villa",
+        "explore1": "探索 The Ace Suk Sabai Villa",
+        "explore2": "探索 The Ace Jomtien Villa",
+        "villa1description": "一座现代化别墅，配有私人泳池、豪华内饰，靠近芭堤雅的热门景点。",
+        "villa2description": "一座优雅宽敞的别墅，提供无与伦比的舒适和宁静的逃离感。"
+    },
+    "whychooseus": {
+        "heading": "为什么选择 Ace Villas？",
+        "block1": {
+            "heading": "私人泳池",
+            "desc": "在被热带花园环绕的独享泳池中放松"
+        },
+        "block2": {
+            "heading": "优越位置",
+            "desc": "距离芭堤雅美丽的海滩和夜生活仅几分钟路程。"
+        },
+        "block3": {
+            "heading": "现代舒适",
+            "desc": "配备全套厨房、高速 Wi-Fi 和优雅的家具。"
+        },
+        "block4": {
+            "heading": "个性化服务",
+            "desc": "您的入住包括礼宾服务，以满足您的所有需求。"
+        }
+    },
+    "nearbyAttraction": {
+        "heading": "探索附近的景点",
+        "description1": "Ace Villas 将您置身于芭堤雅最好的景点中心，让您快速接触独特的体验和当地的地标。",
+        "description2": "Ace Villas 的位置非常适合海滩爱好者，提供便捷的通道到芭堤雅最美丽的海滩。您可以在阳光下休闲，游泳，或尝试刺激的水上运动。",
+        "attractions": {
+            "name1": "Ripley’s Believe It or Not",
+            "name2": "芭堤雅观景点",
+            "name3": "乔木天海滩",
+            "name4": "东滩海滩"
+        }
+    },
+    "bookStay": {
+        "heading": "预订您的住宿",
+        "subheading": "准备好体验 Ace Villas 吗？",
+        "villa1": {
+            "name": "The Ace Jomtien Villa",
+            "desc": "这座迷人的别墅配有 6 间宽敞的卧室和 6 间现代化浴室，为大家庭或团体提供充足的空间。别墅靠近芭堤雅的热闹中心，结合了奢华与便利。",
+            "features": {
+                "bedrooms": "6 间卧室，6 间浴室",
+                "privatePool": "私人泳池 & 太阳平台",
+                "wifi": "高速 Wi-Fi",
+                "kitchen": "全套厨房",
+                "parking": "免费私人停车位"
+            },
+            "description": "适合大型团体或家庭",
+            "price": {
+                "amount": 13500,
+                "currency": "THB",
+                "per": "每晚"
+            },
+            "button": "立即预订"
+        },
+        "villa2": {
+            "name": "The Ace Suk Sabai Villa",
+            "desc": "提供 4 间卧室和 4 间浴室，Gala Express 是小型团体或家庭寻求亲密而奢华住宿的理想选择。现代化的内饰和宁静的氛围，使其成为远离城市喧嚣的完美避风港。",
+            "features": {
+                "bedrooms": "4 间卧室，4 间浴室",
+                "privatePool": "私人户外泳池",
+                "streaming": "流媒体服务",
+                "bbq": "BBQ 设施",
+                "parking": "提供代客停车服务"
+            },
+            "description": "适合家庭和小型团体",
+            "price": {
+                "amount": 12000,
+                "currency": "THB",
+                "per": "每晚"
+            },
+            "button": "立即预订"
+        }
+    },
+    "contact": {
+        "heading": "联系我们",
+        "image": {
+            "src": "contact",
+            "alt": "联系我们的图片"
+        },
+        "form": {
+            "component": "表单"
+        }
+    },
+    "footer": {
+        "pages": "页面",
+        "home": "首页",
+        "about": "关于我们",
+        "villas": "别墅",
+        "gallery": "图库",
+        "location": "位置",
+        "reviews": "评价",
+        "contact": "联系我们",
+        "contactInfo": "联系信息",
+        "sukSabaiAddress": {
+            "title": "The Ace Suk Sabai Villa",
+            "details": "388/146 Moo.10 Suksabai Villa, Thepprasit Rd., Soi 8 Nongprue, Banglamung, 20150 Pattaya South, Thailand"
+        },
+        "jomtienAddress": {
+            "title": "The Ace Jomtien Villa",
+            "details": "418/69, 5 Phra Tamnak, Pattaya City, Bang Lamung District, Chon Buri 20150, Thailand"
+        },
+        "subscribeTitle": "保持更新！",
+        "subscribeDesc": "订阅我们的新闻通讯，获取最新的更新和优惠。",
+        "emailPlaceholder": "请输入您的邮箱",
+        "successMessage": "邮箱已成功接收！感谢您的支持。",
+        "copyright": "Copyright © 2024 theacevillas",
+        "terms": "条款和条件",
+        "privacy": "隐私政策",
+        "disclaimer": "免责声明"
+    },
+    "form": {
+        "heading": "让我们连接",
+        "fields": {
+            "name": {
+                "label": "全名",
+                "placeholder": "请输入您的姓名"
+            },
+            "email": {
+                "label": "电子邮件",
+                "placeholder": "请输入您的电子邮件"
+            },
+            "phone": {
+                "label": "电话号码",
+                "placeholder": "请输入您的电话号码"
+            },
+            "message": {
+                "label": "留言",
+                "placeholder": "请输入您的留言"
+            }
+        },
+        "button": {
+            "text": "发送"
+        }
+    },
+    "form2": {
+        "title": "立即预订",
+        "fields": {
+            "name": {
+                "label": "全名",
+                "placeholder": "请输入您的姓名"
+            },
+            "email": {
+                "label": "电子邮件",
+                "placeholder": "请输入您的电子邮件"
+            },
+            "phone": {
+                "label": "电话号码",
+                "placeholder": "请输入您的电话号码"
+            },
+            "villa": {
+                "label": "选择别墅",
+                "placeholder": "选择别墅",
+                "options": [
+                    "The Ace Suk Sabai Villa",
+                    "The Ace Jomtien Villa"
+                ]
+            },
+            "startDate": {
+                "label": "入住日期"
+            },
+            "endDate": {
+                "label": "退房日期"
+            },
+            "message": {
+                "label": "留言",
+                "placeholder": "请输入您的留言"
+            }
+        },
+        "button": {
+            "text": "发送"
+        }
+    },
+    "aboutpage": {
+        "title": "关于我们",
+        "heading": "The Ace 奢华别墅",
+        "description": [
+            "欢迎来到 The Ace Villas，您在泰国芭堤雅市中心的奢华与舒适之地。我们致力于提供世界级的款待，通过我们的高端别墅住宿，为家庭、朋友和寻求宁静而充满活力的度假的旅行者提供完美的选择。",
+            "在 The Ace Villas，我们相信通过结合现代设施的魅力和个性化服务的温暖，为我们的客人创造一个非凡的体验。我们的两座精美别墅——The Ace Jomtien Villa 和 The Ace Suk Sabai Villa，拥有豪华的内饰、私人泳池，并且靠近芭堤雅一些最具标志性的景点。"
+        ]
+    },
+    "contactPage": {
+        "heading": "联系我们",
+        "desc": "我们在这里为您提供帮助，让您在 The Ace Villas 的住宿难忘。无论您有任何问题，预订需要帮助，还是想了解更多关于我们别墅的信息，随时与我们联系。"
+    },
+    "jomtiean": {
+        "home": {
+            "title": "The Ace Jomtien Villa",
+            "subtitle": "您在芭堤雅Jomtien海滩附近的豪华度假胜地",
+            "description": "逃离日常，入住The Ace Jomtien Villa，在这里现代优雅与卓越舒适完美融合。这座别墅可容纳多达12位客人，是享受放松与高雅的完美平衡，带来难忘的假期体验。",
+            "features": "6间卧室 | 6间浴室",
+            "buttonText": "立即预订"
+        },
+        "about": {
+            "title": "关于我们",
+            "description": "探索The Ace Jomtien Villa的魅力，位于Jomtien心脏地带。六间宽敞的卧室和私人游泳池，这座别墅是寻求宁静而豪华住宿的家庭和团体的理想之地。每个房间都经过精心设计，提供最大舒适感，配有现代设施和宁静的氛围。",
+            "addressHeading": "地址",
+            "address": "418/69, 5 Phra Tamnak, Pattaya City, Bang Lamung District, Chon Buri 20150, Thailand"
+        },
+        "amenities": {
+            "sectionTitle": "设施和服务",
+            "categories": [
+                {
+                    "title": "户外设施",
+                    "items": [
+                        "私人游泳池和躺椅",
+                        "阳光露台和烧烤区，适合愉快的夜晚",
+                        "免费私人停车场"
+                    ]
+                },
+                {
+                    "title": "室内设施",
+                    "items": [
+                        "宽敞的客厅，配有舒适沙发和平板电视",
+                        "设施齐全的厨房，配有微波炉、冰箱、炉灶等",
+                        "适合团体用餐的餐厅",
+                        "高速WiFi和Netflix等流媒体服务"
+                    ]
+                },
+                {
+                    "title": "卧室和浴室必备品",
+                    "items": [
+                        "提供新鲜的床单、毛巾和洗漱用品",
+                        "私人浴室，提供热水、免费洗漱用品和吹风机",
+                        "免费私人停车场"
+                    ]
+                }
+            ]
+        },
+        "mostPopularFacilities": "最受欢迎的设施",
+        "facilities": {
+            "entirePlace": "整个地方都是您的",
+            "size": "240平方米",
+            "swimmingPool": "户外游泳池",
+            "parking": "免费现场停车",
+            "bathroom": "私人浴室",
+            "balcony": "阳台",
+            "airportShuttle": "机场接送服务",
+            "airConditioning": "空调",
+            "bbqFacilities": "烧烤设施",
+            "familyRooms": "家庭房",
+            "wifi": "免费WiFi",
+            "nonSmokingRooms": "无烟房",
+            "terrace": "露台"
+        },
+        "locationHighlights": {
+            "title": "位置亮点",
+            "description": "轻松探索Jomtien。The Ace Jomtien Villa地理位置优越，靠近许多顶级景点：",
+            "sections": [
+                {
+                    "category": "顶级景点",
+                    "items": [
+                        {
+                            "name": "Ripley's Believe It or Not",
+                            "distance": "3.7公里"
+                        },
+                        {
+                            "name": "芭堤雅观景台",
+                            "distance": "1.8公里"
+                        },
+                        {
+                            "name": "芭堤雅水族馆",
+                            "distance": "5.9公里"
+                        }
+                    ]
+                },
+                {
+                    "category": "附近海滩",
+                    "items": [
+                        {
+                            "name": "芭堤雅海滩",
+                            "distance": "3.2公里"
+                        },
+                        {
+                            "name": "东滩海滩",
+                            "distance": "1.2公里"
+                        },
+                        {
+                            "name": "Jomtien海滩",
+                            "distance": "650米"
+                        }
+                    ]
+                },
+                {
+                    "category": "餐饮和购物",
+                    "subCategory": "享受附近各种餐饮选择和便捷的购物：",
+                    "items": [
+                        {
+                            "name": "La Bocca意大利餐厅和披萨店",
+                            "distance": "2.3公里"
+                        },
+                        {
+                            "name": "Natan's",
+                            "distance": "2.2公里"
+                        },
+                        {
+                            "name": "Akvavit Grill & Bar",
+                            "distance": "2.1公里"
+                        },
+                        {
+                            "name": "Sandbar By The Sea",
+                            "distance": "1.7公里"
+                        }
+                    ]
+                },
+                {
+                    "category": "超市",
+                    "items": [
+                        {
+                            "name": "Big C",
+                            "distance": "5公里"
+                        },
+                        {
+                            "name": "Friendship Supermarket",
+                            "distance": "3.4公里"
+                        }
+                    ]
+                },
+                {
+                    "category": "公共交通",
+                    "items": [
+                        {
+                            "name": "芭堤雅南站",
+                            "distance": "3.1公里"
+                        },
+                        {
+                            "name": "芭堤雅火车站",
+                            "distance": "7.7公里"
+                        },
+                        {
+                            "name": "芭堤雅长途汽车站",
+                            "distance": "7.6公里"
+                        },
+                        {
+                            "name": "乌塔保-芭堤雅国际机场",
+                            "distance": "35.4公里"
+                        }
+                    ]
+                }
+            ]
+        },
+        "faq": {
+            "title": "关于The Ace Jomtien Villa的常见问题",
+            "questions": [
+                {
+                    "question": "The Ace Jomtien Villa有多少间卧室？",
+                    "answer": "The Ace Jomtien Villa有6间卧室。详细的住宿信息请查看此页面。"
+                },
+                {
+                    "question": "The Ace Jomtien Villa适合家庭入住吗？",
+                    "answer": "是的，The Ace Jomtien Villa是家庭住宿的热门选择。"
+                },
+                {
+                    "question": "The Ace Jomtien Villa有游泳池吗？",
+                    "answer": "是的，别墅有一个游泳池。有关游泳池和其他设施的更多细节，请查看此页面。"
+                },
+                {
+                    "question": "The Ace Jomtien Villa提供哪些活动？",
+                    "answer": "The Ace Jomtien Villa提供游戏室和游泳池等活动（可能会收费）。"
+                },
+                {
+                    "question": "住在The Ace Jomtien Villa需要多少钱？",
+                    "answer": "价格会根据您的住宿日期和别墅政策有所变化。请通过输入日期查看具体价格。"
+                },
+                {
+                    "question": "The Ace Jomtien Villa最多可以容纳多少位客人？",
+                    "answer": "别墅最多可容纳12位客人。详细信息请查看此页面的住宿说明。"
+                },
+                {
+                    "question": "The Ace Jomtien Villa有私人游泳池吗？",
+                    "answer": "是的，别墅有一个私人游泳池。更多细节请查看此页面。"
+                },
+                {
+                    "question": "The Ace Jomtien Villa的入住和退房时间是多久？",
+                    "answer": "入住时间为14:00起，退房时间为11:00前。"
+                },
+                {
+                    "question": "The Ace Jomtien Villa有露台吗？",
+                    "answer": "是的，别墅提供带露台的房型。更多设施信息请查看此页面。"
+                },
+                {
+                    "question": "The Ace Jomtien Villa有阳台吗？",
+                    "answer": "是的，部分房型配有阳台。更多细节请查看此页面。"
+                }
+            ]
+        },
+        "booking": {
+            "title": "预订信息",
+            "description": "今天就预订您的The Ace Jomtien Villa之行，体验芭堤雅难忘的假期。",
+            "rate": "每晚价格：11,000 THB/晚",
+            "button": "立即预订"
+        }
+    },
+    "SukSabai": {
+        "home": {
+            "title": "The Ace Suk Sabai Villa",
+            "subtitle": "您在芭堤雅的私人绿洲",
+            "description": "在The Ace Suk Sabai Villa体验奢华与舒适，现代化设施和迷人的周围环境保证您度过一个难忘的假期。",
+            "features": "4间卧室 | 4间浴室",
+            "buttonText": "立即预订"
+        },
+        "about": {
+            "title": "关于我们",
+            "description": "欢迎来到The Ace Suk Sabai Villa，位于芭堤雅心脏地带，The Ace Suk Sabai Villa是一座奢华的4卧室度假别墅，设计现代，完美放松与优雅。凭借其优越的地理位置，靠近城市最受欢迎的海滩和景点，The Ace Suk Sabai Villa为家庭、团体或情侣提供了一个完美的私人度假胜地。",
+            "addressHeading": "地址",
+            "address": "388/146 Moo.10 Suksabai Villa, Thepprasit Rd., Soi 8 Nongprue, Banglamung, 20150 Pattaya South, Thailand"
+        },
+        "amenities": {
+            "sectionTitle": "设施与配套",
+            "categories": [
+                {
+                    "title": "户外设施",
+                    "items": [
+                        "带躺椅的私人游泳池",
+                        "阳光露台和烧烤区，适合愉快的夜晚聚会",
+                        "免费提供现场私人停车位"
+                    ]
+                },
+                {
+                    "title": "室内设施",
+                    "items": [
+                        "宽敞的客厅，配有豪华沙发和平面电视",
+                        "设施齐全的厨房，包括微波炉、冰箱、炉灶等",
+                        "完美适合团体用餐的餐厅",
+                        "高速Wi-Fi和Netflix等流媒体娱乐服务"
+                    ]
+                },
+                {
+                    "title": "卧室和浴室必备设施",
+                    "items": [
+                        "提供新鲜的床单、毛巾和洗漱用品",
+                        "私人浴室配有热水、免费洗漱用品和吹风机",
+                        "免费提供现场私人停车位"
+                    ]
+                }
+            ]
+        },
+        "mostPopularFacilities": "最受欢迎的设施",
+        "facilities": {
+            "entirePlace": "整个地方属于您",
+            "size": "240平方米",
+            "swimmingPool": "室外游泳池",
+            "parking": "现场免费停车",
+            "bathroom": "私人浴室",
+            "balcony": "阳台",
+            "airportShuttle": "机场接送",
+            "airConditioning": "空调",
+            "bbqFacilities": "烧烤设施",
+            "familyRooms": "家庭房",
+            "wifi": "免费Wi-Fi",
+            "nonSmokingRooms": "禁烟房",
+            "terrace": "露台"
+        },
+        "locationHighlights": {
+            "title": "位置亮点",
+            "description": "轻松探索芭堤雅，The Ace Suk Sabai Villa位于理想位置，周围有几个著名景点，驾车可轻松到达：",
+            "sections": [
+                {
+                    "category": "热门景点",
+                    "items": [
+                        {
+                            "name": "Ripley's Believe It or Not",
+                            "distance": "2.8 公里"
+                        },
+                        {
+                            "name": "芭堤雅观景台",
+                            "distance": "3.3 公里"
+                        },
+                        {
+                            "name": "芭堤雅水下世界",
+                            "distance": "3 公里"
+                        }
+                    ]
+                },
+                {
+                    "category": "附近海滩",
+                    "items": [
+                        {
+                            "name": "芭堤雅海滩",
+                            "distance": "2.2 公里"
+                        },
+                        {
+                            "name": "东滩海滩",
+                            "distance": "3 公里"
+                        },
+                        {
+                            "name": "ジョムティエン海滩",
+                            "distance": "3.2 公里"
+                        }
+                    ]
+                },
+                {
+                    "category": "餐饮与购物",
+                    "subCategory": "享受附近丰富的餐饮选择和便利的购物环境：",
+                    "items": [
+                        {
+                            "name": "Camel Toe",
+                            "distance": "200 米"
+                        },
+                        {
+                            "name": "The Lion Pub",
+                            "distance": "250 米"
+                        },
+                        {
+                            "name": "Thai German house",
+                            "distance": "350 米"
+                        }
+                    ]
+                },
+                {
+                    "category": "超市",
+                    "items": [
+                        {
+                            "name": "Big C",
+                            "distance": "2.1 公里"
+                        },
+                        {
+                            "name": "Friendship Supermarket",
+                            "distance": "2.1 公里"
+                        }
+                    ]
+                },
+                {
+                    "category": "公共交通",
+                    "items": [
+                        {
+                            "name": "芭堤雅南",
+                            "distance": "2.6 公里"
+                        },
+                        {
+                            "name": "芭堤雅火车站",
+                            "distance": "5 公里"
+                        },
+                        {
+                            "name": "芭堤雅巴士总站",
+                            "distance": "6 公里"
+                        },
+                        {
+                            "name": "U-Tapao Rayong-Pattaya国际机场",
+                            "distance": "46 公里"
+                        }
+                    ]
+                }
+            ]
+        },
+        "faq": {
+            "title": "The Ace Suk Sabai Villa常见问题",
+            "questions": [
+                {
+                    "question": "The Ace Suk Sabai Villa有多少间卧室？",
+                    "answer": "The Ace Suk Sabai Villa有4间卧室。有关住宿的详细信息，请查看此页面。"
+                },
+                {
+                    "question": "The Ace Suk Sabai Villa适合家庭入住吗？",
+                    "answer": "是的，The Ace Suk Sabai Villa是家庭住宿的热门选择。"
+                },
+                {
+                    "question": "The Ace Suk Sabai Villa有游泳池吗？",
+                    "answer": "是的，别墅设有游泳池。您可以在此页面找到有关游泳池和其他设施的更多信息。"
+                },
+                {
+                    "question": "The Ace Suk Sabai Villa提供哪些活动？",
+                    "answer": "The Ace Suk Sabai Villa提供包括游戏室和游泳池（可能需要收费）在内的活动。"
+                },
+                {
+                    "question": "入住The Ace Suk Sabai Villa的费用是多少？",
+                    "answer": "价格根据您的入住日期和别墅的政策有所不同。请输入您的日期以查看定价。"
+                },
+                {
+                    "question": "The Ace Suk Sabai Villa最多可容纳多少位客人？",
+                    "answer": "该别墅可容纳最多10位客人。有关详细信息，请查看住宿的具体安排。"
+                },
+                {
+                    "question": "The Ace Suk Sabai Villa有私人游泳池吗？",
+                    "answer": "是的，该别墅包括一个私人游泳池。更多详细信息，请查看此页面。"
+                },
+                {
+                    "question": "The Ace Suk Sabai Villa的入住和退房时间是何时？",
+                    "answer": "入住时间为14:00，退房时间为11:00。"
+                },
+                {
+                    "question": "The Ace Suk Sabai Villa有露台吗？",
+                    "answer": "是的，别墅提供包括露台在内的选项。请在此页面了解更多设施信息。"
+                },
+                {
+                    "question": "The Ace Suk Sabai Villa有阳台吗？",
+                    "answer": "是的，别墅的某些选项包括阳台。更多详细信息请查看此页面。"
+                },
+                {
+                    "question": "The Ace Suk Sabai Villa距离芭堤雅南市中心有多远？",
+                    "answer": "The Ace Suk Sabai Villa距离芭堤雅南市中心800米。旅行距离可能有所不同。"
+                }
+            ]
+        },
+        "booking": {
+            "title": "预订信息",
+            "description": "今天就预订The Ace Suk Sabai Villa，享受在芭堤雅的难忘经历。",
+            "rate": "每晚价格：12000 泰铢/晚",
+            "button": "立即预订"
+        }
+    },
+    "aceCondo": {
+        "home": {
+            "title": "ACE Sea View 公寓",
+            "subtitle": "在 ACE 公寓提升您的入住体验",
+            "description": "ACE 公寓位于芭堤雅南部，提供带私人泳池的住宿、免费 Wi-Fi 和免费私人停车场。公寓设有空调，距离舒适海滩 1.5 公里，并为客人提供电梯和共用厨房。",
+            "features": "1 间卧室 | 1 间浴室",
+            "buttonText": "立即预订"
+        },
+        "about": {
+            "title": "关于我们",
+            "description": "宽敞的公寓设有阳台、1 间卧室、1 个起居室以及设备齐全的厨房。配有平板电视，提供花园景观。公寓还提供自行车租赁和汽车租赁服务。ACE 公寓距离天堂海滩 1.8 公里，距离邦帕国际高尔夫俱乐部 42 公里，距离乌塔堡罗勇-芭堤雅国际机场 46 公里。",
+            "addressHeading": "地址",
+            "address": "163 Phra Tamnak, 20260 芭堤雅南部，泰国"
+        },
+        "amenities": {
+            "sectionTitle": "设施和服务",
+            "categories": [
+                {
+                    "title": "户外设施",
+                    "items": [
+                        "在我们的野餐区与时尚的户外家具享受温馨时光。",
+                        "在私人泳池中放松或从阳台欣赏美景。",
+                        "免费私人停车场"
+                    ]
+                },
+                {
+                    "title": "室内设施",
+                    "items": [
+                        "宽敞的起居区配有舒适沙发和平板电视",
+                        "设备齐全的厨房，包括微波炉、冰箱、炉灶等",
+                        "高速 Wi-Fi 和 Netflix 等流媒体服务"
+                    ]
+                },
+                {
+                    "title": "卧室和浴室用品",
+                    "items": [
+                        "提供新鲜的床单、毛巾和洗浴用品",
+                        "私人浴室配有热水、免费洗浴用品和吹风机",
+                        "免费私人停车场"
+                    ]
+                }
+            ]
+        },
+        "mostPopularFacilities": "最受欢迎的设施",
+        "facilities": {
+            "entirePlace": "整个空间属于您",
+            "size": "60 平方米",
+            "kitchen": "厨房",
+            "View": "景观",
+            "Pets": "允许携带宠物",
+            "Washingmachine": "洗衣机",
+            "swimmingPool": "室外游泳池",
+            "wifi": "免费 WiFi",
+            "balcony": "阳台",
+            "parking": "免费现场停车",
+            "bathroom": "私人浴室",
+            "airConditioning": "空调"
+        },
+        "locationHighlights": {
+            "title": "地理位置亮点",
+            "description": "轻松探索芭堤雅。ACE 公寓地理位置优越，多个著名景点距离仅需短途车程：",
+            "sections": [
+                {
+                    "category": "主要景点",
+                    "items": [
+                        {
+                            "name": "信不信由你博物馆",
+                            "distance": "1.6 公里"
+                        },
+                        {
+                            "name": "芭堤雅观景台",
+                            "distance": "950 米"
+                        },
+                        {
+                            "name": "Namtarn 房产",
+                            "distance": "1 公里"
+                        },
+                        {
+                            "name": "飞翔的长臂猿",
+                            "distance": "2.3 公里"
+                        },
+                        {
+                            "name": "芭堤雅公园塔",
+                            "distance": "2.3 公里"
+                        }
+                    ]
+                },
+                {
+                    "category": "附近海滩",
+                    "items": [
+                        {
+                            "name": "舒适海滩",
+                            "distance": "1.5 公里"
+                        },
+                        {
+                            "name": "芭堤雅海滩",
+                            "distance": "1.6 公里"
+                        },
+                        {
+                            "name": "天堂海滩",
+                            "distance": "1.8 公里"
+                        },
+                        {
+                            "name": "Pratumnak 海滩",
+                            "distance": "2.3 公里"
+                        },
+                        {
+                            "name": "东滩海滩",
+                            "distance": "2.5 公里"
+                        }
+                    ]
+                },
+                {
+                    "category": "餐馆和咖啡馆",
+                    "subCategory": "享受各种餐饮选择和便利的购物：",
+                    "items": [
+                        {
+                            "name": "咖啡馆/酒吧 SL Sports Lounge",
+                            "distance": "250 米"
+                        },
+                        {
+                            "name": "咖啡馆/酒吧 Belgian Beer Bar Pattaya",
+                            "distance": "900 米"
+                        },
+                        {
+                            "name": "咖啡馆/酒吧 Mokador",
+                            "distance": "1.1 公里"
+                        }
+                    ]
+                },
+                {
+                    "category": "顶级景点",
+                    "items": [
+                        {
+                            "name": "芭堤雅水底世界",
+                            "distance": "5 公里"
+                        },
+                        {
+                            "name": "迷你暹罗",
+                            "distance": "6 公里"
+                        },
+                        {
+                            "name": "瓶子艺术博物馆",
+                            "distance": "6 公里"
+                        },
+                        {
+                            "name": "纳班码头",
+                            "distance": "10 公里"
+                        }
+                    ]
+                },
+                {
+                    "category": "公共交通",
+                    "items": [
+                        {
+                            "name": "芭堤雅南站",
+                            "distance": "4.9 公里"
+                        },
+                        {
+                            "name": "芭堤雅火车站",
+                            "distance": "5 公里"
+                        },
+                        {
+                            "name": "芭堤雅汽车站",
+                            "distance": "5 公里"
+                        },
+                        {
+                            "name": "乌塔堡罗勇-芭堤雅国际机场",
+                            "distance": "45 公里"
+                        }
+                    ]
+                }
+            ]
+        },
+        "faq": {
+            "title": "ACE 公寓常见问题",
+            "questions": [
+                {
+                    "question": "ACE 公寓距离芭堤雅南部中心多远？",
+                    "answer": "ACE 公寓距离芭堤雅南部中心 800 米。所有距离均为直线测量，实际行程距离可能有所不同。"
+                },
+                {
+                    "question": "在 ACE 公寓有什么活动？",
+                    "answer": "ACE 公寓提供游泳池、娱乐人员、自行车租赁服务（可能需要付费）。"
+                },
+                {
+                    "question": "ACE 公寓是否提供私人泳池？",
+                    "answer": "是的，有私人泳池。您可以在此页面了解更多关于此设施的信息。"
+                },
+                {
+                    "question": "ACE 公寓距离海滩有多近？",
+                    "answer": "最近的海滩距离 ACE 公寓仅 1.1 公里。所有距离均为直线测量，实际行程距离可能有所不同。"
+                },
+                {
+                    "question": "ACE 公寓的入住和退房时间是什么时候？",
+                    "answer": "ACE 公寓的入住时间为 15:00 起，退房时间为 00:00 之前。"
+                },
+                {
+                    "question": "ACE 公寓有几间卧室？",
+                    "answer": "ACE 公寓有 1 间卧室。更多详细信息，请查看住宿选项页面。"
+                },
+                {
+                    "question": "ACE 公寓适合家庭入住吗？",
+                    "answer": "是的，ACE 公寓受到预订家庭住宿的客人的喜爱。"
+                },
+                {
+                    "question": "ACE 公寓可以容纳多少位客人？",
+                    "answer": "ACE 公寓可容纳 3 位客人。"
+                },
+                {
+                    "question": "入住 ACE 公寓的费用是多少？",
+                    "answer": "ACE 公寓的价格可能因您的入住时间（例如，您选择的日期、酒店政策等）而异。请输入您的日期查看价格。"
+                },
+                {
+                    "question": "ACE 公寓有泳池吗？",
+                    "answer": "是的，这家酒店有泳池。您可以在此页面查看泳池及其他设施的详情。"
+                },
+                {
+                    "question": "ACE 公寓有阳台吗？",
+                    "answer": "是的，这家酒店提供带阳台的住宿选项。您可以在此页面了解更多相关信息。"
+                }
+            ]
+        },
+        "booking": {
+            "title": "预订信息",
+            "description": "立即预订 ACE 公寓，体验芭堤雅的难忘之旅。",
+            "rate": "每晚价格：2100 泰铢/晚",
+            "button": "立即预订"
+        }
+    },
+    "disclaimer": {
+        "title": "免责声明",
+        "welcome": "欢迎来到 The Ace Villas",
+        "generalInfo": "仅为一般信息",
+        "sections": {
+            "noWarranties": {
+                "title": "无任何担保",
+                "content": "TheAceVillas.com 上的信息是按“现状”提供的。我们不保证所提供信息的准确性、可靠性或完整性。"
+            },
+            "limitedLiability": {
+                "title": "有限责任",
+                "content": "TheAceVillas.com 及其附属公司对于因使用或无法使用本网站或其服务而导致的任何直接、间接或后果性损害不承担责任。"
+            },
+            "bookingDisclaimer": {
+                "title": "预订免责声明",
+                "content": "房间描述、设施和可用性可能有所不同。TheAceVillas.com 对于列出的信息与实际物业特征之间的差异不承担责任。"
+            },
+            "thirdPartyLinks": {
+                "title": "第三方链接",
+                "content": "我们的网站可能包含指向第三方网站的链接。我们不支持并且不对这些网站的内容负责。"
+            },
+            "contactUs": {
+                "title": "联系我们",
+                "content": "如有任何关于免责声明的问题，请通过以下方式与我们联系"
+            }
+        },
+        "email": "support@theacevillas.com"
+    },
+    "privacy": {
+        "title": "隐私政策",
+        "subtitle": "您的隐私对我们至关重要",
+        "description": "本隐私政策解释了我们如何处理您的个人信息。",
+        "sections": {
+            "informationWeCollect": {
+                "title": "我们收集的信息",
+                "points": [
+                    "我们收集您提供的信息，如姓名、联系方式和支付详情。",
+                    "我们还可能自动收集信息，包括 IP 地址和 cookies，以提升用户体验。"
+                ]
+            },
+            "howWeUse": {
+                "title": "我们如何使用您的信息",
+                "points": [
+                    "用于处理预订和管理预订。",
+                    "发送更新、优惠并回复您的查询。",
+                    "用于分析目的，以改善我们的服务和用户体验。"
+                ]
+            },
+            "thirdPartySharing": {
+                "title": "与第三方共享",
+                "points": [
+                    "我们可能仅为了支付处理、防止欺诈或遵守法律义务与第三方共享您的信息。",
+                    "我们不会将个人信息出售或出租给第三方。"
+                ]
+            },
+            "cookies": {
+                "title": "Cookies",
+                "points": [
+                    "我们的网站使用 cookies 来改善用户体验。通过使用本网站，您同意根据本隐私政策使用 cookies。"
+                ]
+            },
+            "yourRights": {
+                "title": "您的权利",
+                "points": [
+                    "您有权访问、修改或请求删除您的个人信息。如需帮助，请联系我们：support@theacevillas.com。"
+                ]
+            }
+        }
+    },
+    "terms": {
+        "title": "条款和条件",
+        "subtitle": "欢迎来到 The Ace Villas",
+        "description": "使用或访问我们的网站即表示您同意遵守以下条款和条件。请仔细阅读。",
+        "sections": {
+            "bookingAndReservations": {
+                "title": "预订和预定",
+                "points": [
+                    "预订时需支付定金以确保预订。",
+                    "取消预订需支付取消费；退款仅根据我们的取消政策进行。",
+                    "列出的价格可能会在没有提前通知的情况下变动。"
+                ]
+            },
+            "guestConduct": {
+                "title": "客人行为",
+                "points": [
+                    "客人应尊重别墅财产，并保持清洁。",
+                    "禁止举办嘈杂的派对或任何非法活动。",
+                    "管理方保留驱逐扰乱秩序或损坏财产的客人的权利。"
+                ]
+            },
+            "liability": {
+                "title": "责任",
+                "points": [
+                    "TheAceVillas.com 对您的住宿期间发生的任何损失、伤害或损害不承担责任。",
+                    "客人对个人物品及任何财产损坏负责。"
+                ]
+            },
+            "changesToTerms": {
+                "title": "条款变更",
+                "points": [
+                    "我们保留随时修改这些条款和条件的权利。继续使用本网站即表示您接受这些修改。"
+                ]
+            },
+            "contactUs": {
+                "title": "联系我们",
+                "points": [
+                    "如有任何问题，请通过 support@theacevillas.com 与我们联系。"
+                ]
+            }
+        }
+    },
+    "Gallery": "图库预览",
+    "header": {
+        "home": "首页",
+        "about": "关于我们",
+        "villas": "别墅",
+        "location": "位置",
+        "reviews": "评价",
+        "contact": "联系我们"
+    },
+    "testimonial": "我们的客人怎么说"
+}
